@@ -1,7 +1,7 @@
 <template>
   <div>
 
-    <div v-if="linia.acords" class="lletraAmpladaFixe" >
+    <div v-if="linia.acords && store.opcioAcords" class="lletraAmpladaFixe" >
       <div v-html="acordsText" class="text-blue text-bold"/>
       <div v-html="textAmbEspais" />
     </div>
@@ -14,6 +14,7 @@
 
 <script>
 import { defineComponent, ref, computed } from 'vue'
+import { useCansonerStore } from '../stores/example-store'
 
 export default defineComponent({
   name: 'liniaTextAcords',
@@ -25,7 +26,7 @@ export default defineComponent({
   },
 
   setup( props ){
-
+    const store = useCansonerStore()
     // const linia = {
     //   acords: [ { nota: "Do", pos: 4},{ nota: "Si", pos: 10},{ nota: "La", pos: 20}],
     //   text: "paragraf 1.            text de la linia numero 1"
@@ -73,7 +74,8 @@ export default defineComponent({
     return {
       linia,
       textAmbEspais,
-      acordsText
+      acordsText,
+      store
     }
 
   }

@@ -10,7 +10,7 @@
             :key="index"
             class="col-auto"
             v-model="cansonersSeleccionats"
-            :label="objCansoner.nom"
+            :label="objCansoner.nom + ' (' + objCansoner.arrCansons.length + ')'"
             :val="objCansoner.clau"
             color="black"
           />
@@ -100,7 +100,7 @@ export default defineComponent({
 
     const cansoners = ref( store.cansoners )
     const cansonersSeleccionats = ref( ['blau', 'vermell'] )
-    const textABuscar = ref("Señor")
+    const textABuscar = ref("")
 
     let cansonersFiltrats = []
     const cansonsTrobades = ref([])
@@ -135,7 +135,7 @@ export default defineComponent({
       // let cansonsTrobades = []
       cansonsTrobades.value = arrDadesPeraConsulta().filter( objDPC => {
         return objDPC.lletra.some ( liniaTxt => {
-          return senseAccents(liniaTxt).includes( senseAccents(textABuscar.value) )
+          return senseAccents(liniaTxt.toLowerCase()).includes( senseAccents(textABuscar.value.toLowerCase()) )
         })
       }).map ( obj => ({ clau: obj.clau, numero: obj.numero, idioma: obj.idioma, titol: obj.titol }))
 

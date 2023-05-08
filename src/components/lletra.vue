@@ -1,8 +1,11 @@
 <template>
   <!-- <pre>{{ estrofa }}</pre> -->
 
-    <q-card v-for="(objEstrofa, index) in lletra" :key="index" class="q-pa-md q-mb-md">
-      <cmp_Estrofa :estrofa="objEstrofa"/>
+    <q-card v-for="(objEstrofa, index) in lletra" :key="index" class="q-pa-sm q-mb-s">
+      <cmp_Estrofa
+      v-if="store.opcioAcords ? objEstrofa.visibleAlsMusics : true"
+      :estrofa="objEstrofa"
+      />
     </q-card>
 
 </template>
@@ -10,6 +13,7 @@
 <script>
 import { defineComponent, ref, computed } from 'vue'
 import cmp_Estrofa from "../components/estrofa.vue"
+import { useCansonerStore } from '../stores/example-store'
 
 export default defineComponent({
   components: { cmp_Estrofa },
@@ -21,6 +25,7 @@ export default defineComponent({
   },
 
   setup( props ){
+    const store = useCansonerStore()
     const lletra = props.lletra
     // [
     //   {
@@ -64,7 +69,7 @@ export default defineComponent({
     // ]
 
 
-    return {lletra}
+    return {lletra, store}
 
   }
 

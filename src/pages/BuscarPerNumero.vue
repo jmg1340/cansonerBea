@@ -10,7 +10,7 @@
                 :key="index"
                 class="col-auto"
                 v-model="seleccioCansoner"
-                :label="objCansoner.nom"
+                :label="objCansoner.nom + ' (' + objCansoner.arrCansons.length + ')'"
                 :val="objCansoner.clau"
                 color="black"
 

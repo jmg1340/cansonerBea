@@ -7,6 +7,7 @@ export default [
         "titol": "Jesús es Señor",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -71,6 +72,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -79,6 +81,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -98,6 +101,7 @@ export default [
         "titol": "Tú rompes cadenas",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -198,6 +202,7 @@ export default [
         "titol": "Con mis manos alzadas",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -275,6 +280,7 @@ export default [
         "titol": "Se fue pero a nuestro lado está",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -360,6 +366,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -440,6 +447,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -468,6 +476,7 @@ export default [
         "titol": "Padre únenos",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -515,6 +524,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -571,6 +581,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -588,6 +599,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -605,6 +617,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": []
           }
@@ -620,6 +633,7 @@ export default [
         "titol": "Lléname Señor",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -713,6 +727,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -829,6 +844,7 @@ export default [
         "titol": "Heme aquí yo iré Envíame Señor",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -942,6 +958,7 @@ export default [
         "titol": "Estamos de fiesta con Jesús",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1019,6 +1036,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "tornada",
             "paragraf": [
               {
@@ -1076,6 +1094,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1125,6 +1144,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1133,6 +1153,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1144,6 +1165,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1169,6 +1191,7 @@ export default [
         "titol": "Para que comprendas que Él te ama. Alegrate",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1238,6 +1261,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "tornada",
             "paragraf": [
               {
@@ -1349,6 +1373,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1366,6 +1391,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "tornada",
             "paragraf": [
               {
@@ -1374,6 +1400,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1391,6 +1418,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "tornada",
             "paragraf": [
               {
@@ -1410,6 +1438,7 @@ export default [
         "titol": "Mejor que la vida es tu misericordia",
         "lletra": [
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1475,6 +1504,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "tornada",
             "paragraf": [
               {
@@ -1540,6 +1570,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {
@@ -1551,6 +1582,7 @@ export default [
             ]
           },
           {
+            "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
               {

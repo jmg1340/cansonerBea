@@ -8,6 +8,10 @@
         Número: <q-chip dense color="cyan-2">{{ canso.numero }}</q-chip>
       </div>
 
+      <div class="col text-center" >
+        <q-checkbox v-model="store.opcioAcords" label="acords"/>
+      </div>
+
       <div class="col-auto">
         <q-tabs
           v-model="tab"
@@ -52,8 +56,6 @@
 </template>
 
 <script>
-import cansonerProva from "../cansoners/Vermell.js"
-
 import { defineComponent, computed, ref } from 'vue'
 import cmp_idioma from "../components/idioma.vue"
 import { useRoute } from "vue-router";
@@ -81,6 +83,8 @@ export default defineComponent({
     // const cansoners = {
     //   cansonerProva
     // }
+
+    // const opcioAcords = ref( false )
 
     const arrCansonsCansoner = cansoners.find( obj => obj.clau === cansoner ).arrCansons
     console.log ("arrCansonsCansoner", arrCansonsCansoner )
@@ -183,7 +187,8 @@ export default defineComponent({
     const arrIdiomes = computed ( () => Object.keys(canso.idioma) )
     const tab = ref( arrIdiomes.value[0] )
 
-    return { arrIdiomes, tab, canso, cansoner }
+
+    return { arrIdiomes, tab, canso, cansoner, store }
 
   }
 

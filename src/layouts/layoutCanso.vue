@@ -6,7 +6,7 @@
 
         <!-- <q-img src="~assets/512.png" style="width: 48px"></q-img> -->
 
-        <q-toolbar-title class="text-caption text-weight-thin text-italic text-indigo-10">
+        <q-toolbar-title class="text-weight-thin text-italic text-indigo-10">
           Cançoner de la Bea
           <!-- <div class="text-caption text-weight-thin text-brown-9"></div> -->
         </q-toolbar-title>
