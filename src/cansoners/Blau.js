@@ -12,7 +12,7 @@ export default [
             "paragraf": [
               {
                 "text": "Jesús es, Jesús es Señor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -33,7 +33,7 @@ export default [
               },
               {
                 "text": "Jesús es, Jesús es Señor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -54,7 +54,7 @@ export default [
               },
               {
                 "text": "Jesús es, Jesús es Señor. (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "rem",
                     "pos": 0
@@ -106,7 +106,7 @@ export default [
             "paragraf": [
               {
                 "text": "Tú, Jesús, tú rompes cadenas.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "rem",
                     "pos": 0
@@ -119,7 +119,7 @@ export default [
               },
               {
                 "text": "Tú, Jesús, tú eres Señor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "rem",
                     "pos": 0
@@ -132,7 +132,7 @@ export default [
               },
               {
                 "text": "Tú, Señor, tú eres mi fuerza.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SIb",
                     "pos": 0
@@ -165,7 +165,7 @@ export default [
               },
               {
                 "text": "Tú, Señor, mi Dios, libérame hoy.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "rem",
                     "pos": 0
@@ -207,7 +207,7 @@ export default [
             "paragraf": [
               {
                 "text": "Con mis manos alzadas",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 1
@@ -216,7 +216,7 @@ export default [
               },
               {
                 "text": "y mi fe puesta en Ti",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 18
@@ -225,7 +225,7 @@ export default [
               },
               {
                 "text": "con acciones de gracias",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 16
@@ -242,7 +242,7 @@ export default [
               },
               {
                 "text": "te bendigo, Señor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 15
@@ -285,7 +285,7 @@ export default [
             "paragraf": [
               {
                 "text": "Se fue pero a nuestro lado está,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -310,7 +310,7 @@ export default [
               },
               {
                 "text": "su Espíritu nos dejó;",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 5
@@ -331,7 +331,7 @@ export default [
               },
               {
                 "text": "una promesa nueva vino a dar,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 6
@@ -352,7 +352,7 @@ export default [
               },
               {
                 "text": "donde dos o más estén, estaré yo.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 12
@@ -371,7 +371,7 @@ export default [
             "paragraf": [
               {
                 "text": "Ven Espíritu Santo,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -392,7 +392,7 @@ export default [
               },
               {
                 "text": "ven Espíritu Santo",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -413,7 +413,7 @@ export default [
               },
               {
                 "text": "Ven Espíritu Santo, llenanos.  (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -481,7 +481,7 @@ export default [
             "paragraf": [
               {
                 "text": "Padre únenos,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 1
@@ -502,7 +502,7 @@ export default [
               },
               {
                 "text": "Padre únenos,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 1
@@ -529,7 +529,7 @@ export default [
             "paragraf": [
               {
                 "text": "Que el mundo crea",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 7
@@ -546,7 +546,7 @@ export default [
               },
               {
                 "text": "que enviaste al Hijo.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 7
@@ -563,7 +563,7 @@ export default [
               },
               {
                 "text": "Padre únenos.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -638,7 +638,7 @@ export default [
             "paragraf": [
               {
                 "text": "Como el ciervo busca por las aguas",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -659,7 +659,7 @@ export default [
               },
               {
                 "text": "así clama mi alma, por ti Señor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 5
@@ -684,7 +684,7 @@ export default [
               },
               {
                 "text": "día y noche yo tengo sed de Ti",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -705,7 +705,7 @@ export default [
               },
               {
                 "text": "y sólo a Ti buscaré.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 3
@@ -732,7 +732,7 @@ export default [
             "paragraf": [
               {
                 "text": "Lléname, lléname Señor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 2
@@ -757,7 +757,7 @@ export default [
               },
               {
                 "text": "dame más, más de tu amor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 1
@@ -782,7 +782,7 @@ export default [
               },
               {
                 "text": "yo tengo sed, sólo de Ti,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 2
@@ -811,7 +811,7 @@ export default [
               },
               {
                 "text": "lléname Señor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -849,7 +849,7 @@ export default [
             "paragraf": [
               {
                 "text": "Heme aquí, yo iré Señor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 1
@@ -870,7 +870,7 @@ export default [
               },
               {
                 "text": "heme aquí, yo iré Señor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -891,7 +891,7 @@ export default [
               },
               {
                 "text": "envíame a mí,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 2
@@ -904,7 +904,7 @@ export default [
               },
               {
                 "text": "que dispuesto estoy",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 7
@@ -925,7 +925,7 @@ export default [
               },
               {
                 "text": "y llevaré tu gloria a las naciones.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mim",
                     "pos": 2
@@ -963,7 +963,7 @@ export default [
             "paragraf": [
               {
                 "text": "Estamos de fiesta con Jesús;",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 1
@@ -980,7 +980,7 @@ export default [
               },
               {
                 "text": "al cielo queremos ir;",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mim",
                     "pos": 18
@@ -997,7 +997,7 @@ export default [
               },
               {
                 "text": "estamos reunidos en la mesa",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mim",
                     "pos": 3
@@ -1014,7 +1014,7 @@ export default [
               },
               {
                 "text": "y es Cristo quién va a servir.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mim",
                     "pos": 6
@@ -1041,7 +1041,7 @@ export default [
             "paragraf": [
               {
                 "text": "Poderoso es nuestro Dios.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 20
@@ -1050,7 +1050,7 @@ export default [
               },
               {
                 "text": "Poderoso es nuestro Dios.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 4
@@ -1067,7 +1067,7 @@ export default [
               },
               {
                 "text": "Poderoso es nuestro Dios.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 20
@@ -1076,7 +1076,7 @@ export default [
               },
               {
                 "text": "Poderoso es nuestro Dios.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 4
@@ -1099,7 +1099,7 @@ export default [
             "paragraf": [
               {
                 "text": "Él sana, Él salva.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL#",
                     "pos": 13
@@ -1108,7 +1108,7 @@ export default [
               },
               {
                 "text": "Poderoso es nuestro Dios.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 5
@@ -1121,7 +1121,7 @@ export default [
               },
               {
                 "text": "Bautiza y viene.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 10
@@ -1130,7 +1130,7 @@ export default [
               },
               {
                 "text": "Poderoso es nuestro Dios.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 4
@@ -1196,7 +1196,7 @@ export default [
             "paragraf": [
               {
                 "text": "Para que comprendas que Él te ama,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 1
@@ -1213,7 +1213,7 @@ export default [
               },
               {
                 "text": "sólo necesitas tener fe",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 1
@@ -1230,7 +1230,7 @@ export default [
               },
               {
                 "text": "para que te sientas hijo suyo",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -1243,7 +1243,7 @@ export default [
               },
               {
                 "text": "sólo necesitas creer en Él.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -1266,7 +1266,7 @@ export default [
             "paragraf": [
               {
                 "text": "Alégrate, alégrate",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 6
@@ -1275,7 +1275,7 @@ export default [
               },
               {
                 "text": "alégrate conmigo",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "fa#",
                     "pos": 13
@@ -1288,7 +1288,7 @@ export default [
               },
               {
                 "text": "que el Señor nos eligió",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SI",
                     "pos": 9
@@ -1308,7 +1308,7 @@ export default [
               },
               {
                 "text": "alégrate conmigo",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "fa#",
                     "pos": 10
@@ -1321,7 +1321,7 @@ export default [
               },
               {
                 "text": "que el Señor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SI",
                     "pos": 8
@@ -1334,7 +1334,7 @@ export default [
               },
               {
                 "text": "en ti y en mí puso su amor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "fa#",
                     "pos": 11
@@ -1351,7 +1351,7 @@ export default [
               },
               {
                 "text": "alégrate de todo corazón.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 4
@@ -1443,7 +1443,7 @@ export default [
             "paragraf": [
               {
                 "text": "Mejor que vida",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -1460,7 +1460,7 @@ export default [
               },
               {
                 "text": "es tu misericordia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "rem",
                     "pos": 13
@@ -1473,7 +1473,7 @@ export default [
               },
               {
                 "text": "mejor que vida",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 11
@@ -1482,7 +1482,7 @@ export default [
               },
               {
                 "text": "es tu misericordia.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 3
@@ -1509,7 +1509,7 @@ export default [
             "paragraf": [
               {
                 "text": "Señor, te alabo",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 11
@@ -1526,7 +1526,7 @@ export default [
               },
               {
                 "text": "y te bendigo,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 8
@@ -1539,7 +1539,7 @@ export default [
               },
               {
                 "text": "yo quiero alzar",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 13
@@ -1552,7 +1552,7 @@ export default [
               },
               {
                 "text": "mis manos hacia Ti.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "rem",
                     "pos": 4

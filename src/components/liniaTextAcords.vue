@@ -1,9 +1,18 @@
 <template>
   <div>
 
-    <div v-if="linia.acords && store.opcioAcords" class="lletraAmpladaFixe" >
-      <div v-html="acordsText" class="text-blue text-bold"/>
+    <div v-if="(linia.acordsASobre && linia.acordsASota) && store.opcioAcords" class="lletraAmpladaFixe" >
+      <div v-html="acordsTextASobre" class="text-blue text-bold"/>
       <div v-html="textAmbEspais" />
+      <div v-html="acordsTextASota" class="text-blue text-bold"/>
+    </div>
+    <div v-else-if="linia.acordsASobre && store.opcioAcords" class="lletraAmpladaFixe" >
+      <div v-html="acordsTextASobre" class="text-blue text-bold"/>
+      <div v-html="textAmbEspais" />
+    </div>
+    <div v-else-if="linia.acordsASota && store.opcioAcords" class="lletraAmpladaFixe" >
+      <div v-html="textAmbEspais" />
+      <div v-html="acordsTextASota" class="text-blue text-bold"/>
     </div>
     <div v-else>
       {{ linia.text}}
@@ -35,16 +44,26 @@ export default defineComponent({
     const linia = props.linia
     const textAmbEspais = computed ( () => linia.text.replaceAll(" ", "&nbsp;"))
 
-    const acordsText = computed ( () => {
 
-      if (linia.acords !== undefined) {
+
+    const acordsTextASobre = computed ( () => {
+      return acordsText ( linia.acordsASobre )
+    })
+    const acordsTextASota = computed ( () => {
+      return acordsText ( linia.acordsASota )
+    })
+
+
+    const acordsText =  (arrAcords) => {
+
+      if (arrAcords !== undefined) {
         const textLength = linia.text.length
         // console.log(textLength)
 
         let textAcords = " ".repeat(textLength)
         // console.log("textAcords", "[" + textAcords + "]")
 
-        linia.acords.forEach( (obj, idx, matriu ) => {
+        arrAcords.forEach( (obj, idx, matriu ) => {
           const arr = textAcords.split("")
           // console.log("arr", arr)
 
@@ -68,13 +87,14 @@ export default defineComponent({
       } else {
         return null
       }
-    })
+    }
 
 
     return {
       linia,
       textAmbEspais,
-      acordsText,
+      acordsTextASobre,
+      acordsTextASota,
       store
     }
 

@@ -17,7 +17,7 @@ export default [
             "paragraf": [
               {
                 "text": "Aaaaa..aaaaaa..aa...aa l.leluia      (4)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -60,7 +60,7 @@ export default [
             "paragraf": [
               {
                 "text": "El Senyor és el meu Senyor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -81,7 +81,7 @@ export default [
               },
               {
                 "text": "al·leluia cantaré al Salvador.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -106,7 +106,7 @@ export default [
               },
               {
                 "text": "El Senyor és el meu Senyor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -127,7 +127,7 @@ export default [
               },
               {
                 "text": "cantaré per sempre al nostre Creador.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -173,7 +173,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, Al·leluia,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -190,7 +190,7 @@ export default [
               },
               {
                 "text": "lloa el Senyor del fons del teu cor.   (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 0
@@ -225,7 +225,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Canta amb cor nou l’honor del teu Senyor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 17
@@ -242,7 +242,7 @@ export default [
               },
               {
                 "text": "canta el teu Déu; lloant el seu Sant Nom.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -265,7 +265,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, Al·leluia,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -375,7 +375,7 @@ export default [
             "paragraf": [
               {
                 "text": "Ah, si sabés ton cor el do de Jesús,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 0
@@ -396,7 +396,7 @@ export default [
               },
               {
                 "text": "fóra el teu prec: tinc set, Senyor vull beure.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -423,7 +423,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. M’ha estimat el meu Senyor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 13
@@ -436,7 +436,7 @@ export default [
               },
               {
                 "text": "fins a morir clavat en creu.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 7
@@ -449,7 +449,7 @@ export default [
               },
               {
                 "text": "Ell morint ha derrotat",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 6
@@ -462,7 +462,7 @@ export default [
               },
               {
                 "text": "la mort, la vida ens ha donat",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 14
@@ -565,7 +565,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, al·leluia, al·leluia. Tu ets Rei",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -610,7 +610,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al.le, Al.le, Al·leluia (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -623,7 +623,7 @@ export default [
               },
               {
                 "text": "Cantem al Senyor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -636,7 +636,7 @@ export default [
               },
               {
                 "text": "Cada dia lloem tot cantant:",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 5
@@ -649,7 +649,7 @@ export default [
               },
               {
                 "text": "Oh! Al.le, Al·leluia.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 18
@@ -664,7 +664,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Ens ha estimat fins a morir,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 7
@@ -677,7 +677,7 @@ export default [
               },
               {
                 "text": "Crist ha vençut la mort!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 20
@@ -686,7 +686,7 @@ export default [
               },
               {
                 "text": "el meu pecat no em pot ferir,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 20
@@ -695,7 +695,7 @@ export default [
               },
               {
                 "text": "Crist ha vençut la mort!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 20
@@ -824,7 +824,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al.leluia Al.leluia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -837,7 +837,7 @@ export default [
               },
               {
                 "text": "Al.leluia Al.leluia (3)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -850,7 +850,7 @@ export default [
               },
               {
                 "text": "Aaaaaa,    Al.leluia    (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 1
@@ -873,7 +873,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Crist morí i és viu per sempre,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 3
@@ -886,7 +886,7 @@ export default [
               },
               {
                 "text": "Crist ha de tornar, ho va prometre.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -903,7 +903,7 @@ export default [
               },
               {
                 "text": "Tu vas morir per mi,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -920,7 +920,7 @@ export default [
               },
               {
                 "text": "i a la creu em vas fer lliure. Al.leluia!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -951,7 +951,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al.leluia Al.leluia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -964,7 +964,7 @@ export default [
               },
               {
                 "text": "Al.leluia Al.leluia (3)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -977,7 +977,7 @@ export default [
               },
               {
                 "text": "Aaaaaa,    Al.leluia    (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 1
@@ -1000,7 +1000,7 @@ export default [
             "paragraf": [
               {
                 "text": "2. En morir desfàs la mort",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 3
@@ -1013,7 +1013,7 @@ export default [
               },
               {
                 "text": "i en ressuscitar restaures l’home.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -1030,7 +1030,7 @@ export default [
               },
               {
                 "text": "Tu vas morir per mi",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -1047,7 +1047,7 @@ export default [
               },
               {
                 "text": "i a la creu em vas fer lliure. Al.leluia!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -1078,7 +1078,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al.leluia Al.leluia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -1091,7 +1091,7 @@ export default [
               },
               {
                 "text": "Al.leluia Al.leluia (3)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -1104,7 +1104,7 @@ export default [
               },
               {
                 "text": "Aaaaaa,    Al.leluia    (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 1
@@ -1144,7 +1144,7 @@ export default [
             "paragraf": [
               {
                 "text": "Celebreu Crist, celebreu",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -1181,7 +1181,7 @@ export default [
               },
               {
                 "text": "Celebreu Crist, celebreu    (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 3
@@ -1240,7 +1240,7 @@ export default [
             "paragraf": [
               {
                 "text": "Ha ressuscitat, ha ressuscitat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 6
@@ -1257,7 +1257,7 @@ export default [
               },
               {
                 "text": "i per sempre Ell viurà.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -1274,7 +1274,7 @@ export default [
               },
               {
                 "text": "Ha ressuscitat, ha ressuscitat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 6
@@ -1291,7 +1291,7 @@ export default [
               },
               {
                 "text": "anem a celebrar",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 8
@@ -1300,7 +1300,7 @@ export default [
               },
               {
                 "text": "que Jesús ha ressuscitat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 22
@@ -1315,7 +1315,7 @@ export default [
             "paragraf": [
               {
                 "text": "Celebreu Crist, celebreu",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -1352,7 +1352,7 @@ export default [
               },
               {
                 "text": "Celebreu Crist, celebreu    (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 3
@@ -1411,7 +1411,7 @@ export default [
             "paragraf": [
               {
                 "text": "Ha ressuscitat, ha ressuscitat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 6
@@ -1428,7 +1428,7 @@ export default [
               },
               {
                 "text": "i per sempre Ell viurà.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -1445,7 +1445,7 @@ export default [
               },
               {
                 "text": "Ha ressuscitat, ha ressuscitat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 6
@@ -1462,7 +1462,7 @@ export default [
               },
               {
                 "text": "anem a celebrar, veniu a celebrar...",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 6
@@ -1471,7 +1471,7 @@ export default [
               },
               {
                 "text": "que Jesús ha ressuscitat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 22
@@ -1503,7 +1503,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al.leluia! Ha ressuscitat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 6
@@ -1516,7 +1516,7 @@ export default [
               },
               {
                 "text": "la mort ha estat vençuda,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 3
@@ -1525,7 +1525,7 @@ export default [
               },
               {
                 "text": "del pecat ens ha salvat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA#",
                     "pos": 5
@@ -1534,7 +1534,7 @@ export default [
               },
               {
                 "text": "Crist és viu per sempre!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "si",
                     "pos": 0
@@ -1543,7 +1543,7 @@ export default [
               },
               {
                 "text": "Ell és viu, Ell és viu!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 6
@@ -1578,7 +1578,7 @@ export default [
             "paragraf": [
               {
                 "text": "És el Rei de cel i terra,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 7
@@ -1587,7 +1587,7 @@ export default [
               },
               {
                 "text": "Ell és principi i fi,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "do#",
                     "pos": 4
@@ -1596,7 +1596,7 @@ export default [
               },
               {
                 "text": "ha trencat les cadenes",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 7
@@ -1605,7 +1605,7 @@ export default [
               },
               {
                 "text": "i el seu poble ha alliberat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA#",
                     "pos": 9
@@ -1614,7 +1614,7 @@ export default [
               },
               {
                 "text": "Crist és viu per sempre!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "si",
                     "pos": 0
@@ -1623,7 +1623,7 @@ export default [
               },
               {
                 "text": "Ell és viu, ell és viu!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 6
@@ -1658,7 +1658,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al.leluia, Jesucrist és viu",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 5
@@ -1697,7 +1697,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia   (16)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 0
@@ -1784,7 +1784,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Vull cantar pel nostre Déu el meu gran goig.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 27
@@ -1801,7 +1801,7 @@ export default [
               },
               {
                 "text": "Té la mà sobre meu en Ell viuré.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 15
@@ -1810,7 +1810,7 @@ export default [
               },
               {
                 "text": "Ets Senyor mon suport, el meu escut.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 0
@@ -1827,7 +1827,7 @@ export default [
               },
               {
                 "text": "Sigui sempre beneït, car és tan bo.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 0
@@ -1925,7 +1925,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia Al·lelu  Al·leluia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -1946,7 +1946,7 @@ export default [
               },
               {
                 "text": "Al·leluia, Al·leluia.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 7
@@ -1959,7 +1959,7 @@ export default [
               },
               {
                 "text": "Al·leluia Al·lelu  Al·leluia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -1980,7 +1980,7 @@ export default [
               },
               {
                 "text": "Al·leluia, Al·leluia.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 8
@@ -2007,7 +2007,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Jo crec en tu, Senyor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 2
@@ -2028,7 +2028,7 @@ export default [
               },
               {
                 "text": "Jo espero en tu, Déu meu.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -2045,7 +2045,7 @@ export default [
               },
               {
                 "text": "Jo t'amo amb tot el cor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -2066,7 +2066,7 @@ export default [
               },
               {
                 "text": "Déu ple de bondat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "re",
                     "pos": 0
@@ -2245,7 +2245,7 @@ export default [
             "paragraf": [
               {
                 "text": "Na, na, na, na, na  (4)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2288,7 +2288,7 @@ export default [
             "paragraf": [
               {
                 "text": "Sempre que em bellugo ho faig en Tu.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2312,7 +2312,7 @@ export default [
               },
               {
                 "text": "Sempre que respiro és en Tu",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2333,7 +2333,7 @@ export default [
               },
               {
                 "text": "Sempre que camino ho faig en Tu.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2357,7 +2357,7 @@ export default [
               },
               {
                 "text": "Sempre que respiro és en Tu.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2387,7 +2387,7 @@ export default [
             "paragraf": [
               {
                 "text": "Rius de gràcia, rius d’amor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2412,7 +2412,7 @@ export default [
               },
               {
                 "text": "Allà on miro et veig a Tu, Senyor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2437,7 +2437,7 @@ export default [
               },
               {
                 "text": "Tu m’has enamorat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 5
@@ -2458,7 +2458,7 @@ export default [
               },
               {
                 "text": "Oh Senyor com pots estimar tant?",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2485,7 +2485,7 @@ export default [
             "paragraf": [
               {
                 "text": "Na, na, na, na, na",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2512,7 +2512,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, al·leluia",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 0
@@ -2533,7 +2533,7 @@ export default [
               },
               {
                 "text": "el Senyor és el nostre Rei. (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 4
@@ -2584,7 +2584,7 @@ export default [
             "paragraf": [
               {
                 "text": "Canteu al Senyor un càntic nou,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 0
@@ -2605,7 +2605,7 @@ export default [
               },
               {
                 "text": "a Ell que ha fet meravelles;",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 2
@@ -2630,7 +2630,7 @@ export default [
               },
               {
                 "text": "ha triomfat amb la seva dreta,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 3
@@ -2655,7 +2655,7 @@ export default [
               },
               {
                 "text": "amb el seu braç sagrat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 4
@@ -2735,7 +2735,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, al·leluia , al·leluia (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -2762,7 +2762,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Dem honor al Déu creador",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SI",
                     "pos": 9
@@ -2779,7 +2779,7 @@ export default [
               },
               {
                 "text": "i a Jesucrist que ens ha salvat,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 29
@@ -2788,7 +2788,7 @@ export default [
               },
               {
                 "text": "a l’Esperit font de consol.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 7
@@ -2885,7 +2885,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, al·leluia, al·leluia, al·leluia.    (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 6
@@ -2952,7 +2952,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Lloeu Déu al seu santuari,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "do#",
                     "pos": 17
@@ -2977,7 +2977,7 @@ export default [
               },
               {
                 "text": "lloeu-lo al baluard del firmament,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -3006,7 +3006,7 @@ export default [
               },
               {
                 "text": "lloeu-lo per les seves gestes",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -3023,7 +3023,7 @@ export default [
               },
               {
                 "text": "lloeu-lo per la seva grandesa.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 3
@@ -3130,7 +3130,7 @@ export default [
             "paragraf": [
               {
                 "text": "Tots els servents de Déu",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "re",
                     "pos": 5
@@ -3143,7 +3143,7 @@ export default [
               },
               {
                 "text": "lloeu el sant Nom del Senyor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "re",
                     "pos": 25
@@ -3152,7 +3152,7 @@ export default [
               },
               {
                 "text": "tots els qui sou al temple del Senyor",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 21
@@ -3161,7 +3161,7 @@ export default [
               },
               {
                 "text": "mentre va passant la nit. (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 0
@@ -3180,7 +3180,7 @@ export default [
             "paragraf": [
               {
                 "text": "Au, aixequeu les mans, lloeu tots el vostre Déu.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -3201,7 +3201,7 @@ export default [
               },
               {
                 "text": "Sigui el Senyor lloat des de Sió,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "sol",
                     "pos": 0
@@ -3214,7 +3214,7 @@ export default [
               },
               {
                 "text": "Ell creador de l’univers.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -3249,7 +3249,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, Al·leluia,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -3270,7 +3270,7 @@ export default [
               },
               {
                 "text": "Al·leluia, Al·leluia. (bis)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -3301,7 +3301,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Prop de tu, Jesús, vull pregar,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 3
@@ -3318,7 +3318,7 @@ export default [
               },
               {
                 "text": "tot sentint que tu ets tan gran.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -3335,7 +3335,7 @@ export default [
               },
               {
                 "text": "Tu em fas senzill com un nen,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -3352,7 +3352,7 @@ export default [
               },
               {
                 "text": "a les teves mans sóc feliç.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -3464,7 +3464,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, Al·leluia, Al·leluia.   (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 0
@@ -3491,7 +3491,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Enaltiu Yahvéh, que n’és de bo!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 3
@@ -3504,7 +3504,7 @@ export default [
               },
               {
                 "text": "És etern el seu amor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -3517,7 +3517,7 @@ export default [
               },
               {
                 "text": "Que canti la casa d’Israel:",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 0
@@ -3530,7 +3530,7 @@ export default [
               },
               {
                 "text": "és etern el seu amor!",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -3678,7 +3678,7 @@ export default [
             "paragraf": [
               {
                 "text": "Amen, amen, amen",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -3712,7 +3712,7 @@ export default [
               },
               {
                 "text": "tot poder i tota força",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -3803,7 +3803,7 @@ export default [
             "paragraf": [
               {
                 "text": "Cos de Jesús lliurat per a mi.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -3820,7 +3820,7 @@ export default [
               },
               {
                 "text": "Cos de Jesús lliurat per a mi.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "si",
                     "pos": 9
@@ -3837,7 +3837,7 @@ export default [
               },
               {
                 "text": "Cos de Jesús lliurat per a mi.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 9
@@ -3862,7 +3862,7 @@ export default [
               },
               {
                 "text": "Cos de Jesús lliurat per a mi.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "la",
                     "pos": 9
@@ -3914,7 +3914,7 @@ export default [
             "paragraf": [
               {
                 "text": "Anem a beneir el Senyor,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -3939,7 +3939,7 @@ export default [
               },
               {
                 "text": "nosaltres  els  fills  de  Déu.     (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "fa#",
                     "pos": 2
@@ -3966,7 +3966,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Les mans ben enlaire, aclamem el Senyor;",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "LA",
                     "pos": 8
@@ -3983,7 +3983,7 @@ export default [
               },
               {
                 "text": "glòria a Crist, Senyor nostre Salvador.   (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "fa#",
                     "pos": 9
@@ -4090,7 +4090,7 @@ export default [
             "paragraf": [
               {
                 "text": "Anyell de Déu, que lleveu el pecat del món,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -4111,7 +4111,7 @@ export default [
               },
               {
                 "text": "tingueu pietat de nosaltres,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -4132,7 +4132,7 @@ export default [
               },
               {
                 "text": "tingueu pietat de nosaltres.  (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "re",
                     "pos": 0
@@ -4167,7 +4167,7 @@ export default [
             "paragraf": [
               {
                 "text": "Anyell de Déu, que lleveu el pecat del món,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -4192,7 +4192,7 @@ export default [
               },
               {
                 "text": "doneu-nos la pau,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -4213,7 +4213,7 @@ export default [
               },
               {
                 "text": "doneu-nos la pau.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -4253,7 +4253,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, al·leluia, al·leluia, al·leluia.     (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -4284,7 +4284,7 @@ export default [
             "paragraf": [
               {
                 "text": "1.Lloeu Déu del cel estant,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 17
@@ -4297,7 +4297,7 @@ export default [
               },
               {
                 "text": "lloeu-lo des de l’altura;",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 0
@@ -4318,7 +4318,7 @@ export default [
               },
               {
                 "text": "lloeu-lo tots els àngels,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 5
@@ -4335,7 +4335,7 @@ export default [
               },
               {
                 "text": "lloeu-lo tots els seus estols.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "RE",
                     "pos": 7
@@ -4573,7 +4573,7 @@ export default [
             "paragraf": [
               {
                 "text": "Bon dia, bon dia,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -4582,7 +4582,7 @@ export default [
               },
               {
                 "text": "bon dia a tothom. (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -4601,7 +4601,7 @@ export default [
             "paragraf": [
               {
                 "text": "Si miro els teus ulls,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "FA",
                     "pos": 0
@@ -4614,7 +4614,7 @@ export default [
               },
               {
                 "text": "puc veure que",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -4627,7 +4627,7 @@ export default [
               },
               {
                 "text": "l’amor ens uneix en el Senyor.   (2)",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "re",
                     "pos": 3
@@ -4667,7 +4667,7 @@ export default [
             "paragraf": [
               {
                 "text": "Al·leluia, al·leluia, Jesús és Déu,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -4684,7 +4684,7 @@ export default [
               },
               {
                 "text": "Ell és Senyor.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SI",
                     "pos": 10
@@ -4697,7 +4697,7 @@ export default [
               },
               {
                 "text": "Al·leluia, al·leluia,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 6
@@ -4710,7 +4710,7 @@ export default [
               },
               {
                 "text": "enaltim el seu sant Nom.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "fa#",
                     "pos": 3
@@ -4737,7 +4737,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. Ell és el Mestre, l'Amo del món,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "sol#",
                     "pos": 14
@@ -4758,7 +4758,7 @@ export default [
               },
               {
                 "text": "Ell és el Rei que regeix l’univers.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "MI",
                     "pos": 0
@@ -4914,7 +4914,7 @@ export default [
             "paragraf": [
               {
                 "text": "Alceu l’estendard de l’amor. Al.leluia.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "mi",
                     "pos": 0
@@ -4947,7 +4947,7 @@ export default [
               },
               {
                 "text": "Trompetes toqueu a combat.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -4964,7 +4964,7 @@ export default [
               },
               {
                 "text": "Crist ens ha donat la victòria, Al.leluia.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -4993,7 +4993,7 @@ export default [
               },
               {
                 "text": "Jericó ha caigut.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -5016,7 +5016,7 @@ export default [
             "paragraf": [
               {
                 "text": "1. El cos de Crist és un arma,",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 5
@@ -5033,7 +5033,7 @@ export default [
               },
               {
                 "text": "que combat les tenebres.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 0
@@ -5050,7 +5050,7 @@ export default [
               },
               {
                 "text": "És la llibertat pels encadenats.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "SOL",
                     "pos": 0
@@ -5067,7 +5067,7 @@ export default [
               },
               {
                 "text": "En el nom de Jesús, nostre Rei.",
-                "acords": [
+                "acordsASobre": [
                   {
                     "nota": "DO",
                     "pos": 6
@@ -5215,6 +5215,2904 @@ export default [
 
     }
   },
+
+  {
+    numero: 26,
+    idioma: {
+      "catala": {
+        "titol": "Alçat radiant",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Alçat radiant, que ja apunta l’albada,",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "ve fulgent la glòria de Déu.  (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "Au, aixeca els ulls mira ben enllà,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "ja pots eixamplar el teu cor ben ple de goig.",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 35
+                  }
+                ]
+              },
+              {
+                "text": "Heus aquí els teus fills que retornen vers tu,",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "porten al costat les teves filles.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 28
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Jerusalem, Jerusalem,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "treu-te el vestit de la tristesa.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "Jerusalem, Jerusalem,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 11
+                  }
+                ]
+              },
+              {
+                "text": "canta i dansa pel teu Déu.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 23
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "2. Vers la teva llum et vindran tots els pobles,"
+              },
+              {
+                "text": "reis nombrosos vers el teu esclat.   (2)"
+              },
+              {
+                "text": "Folcs de camells et cobriran arreu,"
+              },
+              {
+                "text": "grans ramats vindran des de Quedar, d’Efà."
+              },
+              {
+                "text": "Lluny des de Sabà duran l’or i l’encens"
+              },
+              {
+                "text": "tots adreçaran a Déu lloances."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Jerusalem, Jerusalem,"
+              },
+              {
+                "text": "treu-te el vestit de la tristesa."
+              },
+              {
+                "text": "Jerusalem, Jerusalem,"
+              },
+              {
+                "text": "canta i dansa pel teu Déu."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "3. Fills dels estrangers bastiran tes muralles,"
+              },
+              {
+                "text": "llurs reis per tes portes entraran.   (2)"
+              },
+              {
+                "text": "Sobre teu del Líban l’esplet vindrà,"
+              },
+              {
+                "text": "tu tindràs per nom el de  Ciutat de Déu ."
+              },
+              {
+                "text": "Ja hauran acabat aquells jorns del teu dol,"
+              },
+              {
+                "text": "Tu, el meu honor enmig dels pobles."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Jerusalem, Jerusalem,"
+              },
+              {
+                "text": "treu-te el vestit de la tristesa."
+              },
+              {
+                "text": "Jerusalem, Jerusalem,"
+              },
+              {
+                "text": "canta i dansa pel teu Déu."
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 27,
+    idioma: {
+      "catala": {
+        "titol": "Clamarem al nostre Deu",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Clamarem al nostre Déu",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "de lloança digne és.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 5
+                  }
+                ]
+              },
+              {
+                "text": "Ell ens lliurarà de tot enemic.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Jesús viu, volem lloar el seu nom",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 12
+                  }
+                ]
+              },
+              {
+                "text": "perquè Ell és nostra roca i la salvació.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 37
+                  }
+                ],
+                "acordsASota": [
+                  {
+                    "nota": "(",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 37
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 39
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 28,
+    idioma: {
+      "catala": {
+        "titol": "Fe, fe, fe, una mica mes de fe",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Fe, fe, fe una mica més de fe (bis)",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 28
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 30
+                  }
+                ]
+              },
+              {
+                "text": "No necessites més, només fes servir el que tens.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 44
+                  }
+                ]
+              },
+              {
+                "text": "Fe, fe, fe una mica més de fe.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Amor…   Pau…    Goig…"
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 29,
+    idioma: {
+      "catala": {
+        "titol": "Beneire el Senyor en tot moment",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Tasteu i veureu que n’és de bo el Senyor,"
+              },
+              {
+                "text": "feliç l’home que s’hi refugia."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Beneiré el Senyor en tot moment,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "tindré sempre als llavis"
+              },
+              {
+                "text": "la seva lloança.",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "La meva ànima es gloria en el Senyor;",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 33
+                  }
+                ]
+              },
+              {
+                "text": "se n’alegraran els humils quan ho sentin.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 34
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Tasteu i veureu que n’és de bo el Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 38
+                  }
+                ]
+              },
+              {
+                "text": "feliç l’home que s’hi refugia.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Tots amb mi glorifiqueu el Senyor,"
+              },
+              {
+                "text": "exalcem plegats el seu nom."
+              },
+              {
+                "text": "He demanat al Senyor que em guiés;"
+              },
+              {
+                "text": "Ell m’ha escoltat, res no m’espanta."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Tasteu i veureu que n’és de bo el Senyor,"
+              },
+              {
+                "text": "feliç l’home que s’hi refugia."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Alceu vers Ell la mirada."
+              },
+              {
+                "text": "Us omplirà de la seva llum."
+              },
+              {
+                "text": "Quan els pobres invoquen el Senyor,"
+              },
+              {
+                "text": "els escolta i els salva del perill."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Tasteu i veureu que n’és de bo el Senyor,"
+              },
+              {
+                "text": "feliç l’home que s’hi refugia."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Acampa l’àngel del Senyor"
+              },
+              {
+                "text": "entorn dels seus fidels, per protegir-los."
+              },
+              {
+                "text": "Els rics s’empobriran, passaran fam,"
+              },
+              {
+                "text": "però els qui busquen el Senyor"
+              },
+              {
+                "text": "no els faltarà cap bé."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Tasteu i veureu que n’és de bo el Senyor,"
+              },
+              {
+                "text": "feliç l’home que s’hi refugia."
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 30,
+    idioma: {
+      "catala": {
+        "titol": "Beneim el nom del Senyor",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Beneïm el nom del Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Ell és l’únic digne d’adoració.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 33
+                  }
+                ]
+              },
+              {
+                "text": "El seu poble clama a una sola veu:",
+                "acordsASobre": [
+                  {
+                    "nota": "sol",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sant és el teu nom,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "sant és el teu nom,",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "sant és el teu nom, oh Senyor! (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 35
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 37
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Beneïm el nom del Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "Ell és l’únic digne d’adoració.",
+                "acordsASobre": [
+                  {
+                    "nota": "si",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "El seu poble clama a una sola veu:",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sant és el teu nom,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "sant és el teu nom,",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  }
+                ]
+              },
+              {
+                "text": "sant és el teu nom, oh Senyor!",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 31,
+    idioma: {
+      "catala": {
+        "titol": "Amb la joia als llavis",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Amb la joia als llavis us canto lloances.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 35
+                  }
+                ]
+              },
+              {
+                "text": "Vós sou l’aigua viva,",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 17
+                  }
+                ]
+              },
+              {
+                "text": "Vós la font que em salva.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "El meu cor exulta davant la vostra obra.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 36
+                  }
+                ]
+              },
+              {
+                "text": "Vós doneu la vida, Vós sou el meu Déu.",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "1. Vós sou el meu Déu, el meu cor us cerca.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 38
+                  }
+                ]
+              },
+              {
+                "text": "Tinc set de Vós de dia i de nit.",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "Cerco el vostre amor perquè m’acompanyi.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "Tinc set de Vós, Senyor Déu meu.",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 29
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Amb la joia als llavis us canto lloances."
+              },
+              {
+                "text": "Vós sou l’aigua viva,"
+              },
+              {
+                "text": "Vós la font que em salva."
+              },
+              {
+                "text": "El meu cor exulta davant la vostra obra."
+              },
+              {
+                "text": "Vós doneu la vida, Vós sou el meu Déu."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "2. Quan m’adormo al llit sempre penso en Vós;"
+              },
+              {
+                "text": "quan us reclamo sempre responeu."
+              },
+              {
+                "text": "I el meu cor s’alegra, sadollat de tot."
+              },
+              {
+                "text": "Tinc set de Vós, Senyor Déu meu."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Amb la joia als llavis us canto lloances."
+              },
+              {
+                "text": "Vós sou l’aigua viva,"
+              },
+              {
+                "text": "Vós la font que em salva."
+              },
+              {
+                "text": "El meu cor exulta davant la vostra obra."
+              },
+              {
+                "text": "Vós doneu la vida, Vós sou el meu Déu."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "3. Cada cop que us cerco us deixeu trobar;"
+              },
+              {
+                "text": "feu-me sentir que us tinc a prop meu."
+              },
+              {
+                "text": "Com la terra eixuta, com l’erm sedegós,"
+              },
+              {
+                "text": "Tinc set de Vós, Senyor Déu meu."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Amb la joia als llavis us canto lloances."
+              },
+              {
+                "text": "Vós sou l’aigua viva,"
+              },
+              {
+                "text": "Vós la font que em salva."
+              },
+              {
+                "text": "El meu cor exulta davant la vostra obra."
+              },
+              {
+                "text": "Vós doneu la vida, Vós sou el meu Déu."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "4. Mai no em cansaria de cantar lloances;"
+              },
+              {
+                "text": "tota la vida us beneiré."
+              },
+              {
+                "text": "Per lloar el seu nom alçaré les mans."
+              },
+              {
+                "text": "Tinc set de Vós, Senyor Déu meu."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Amb la joia als llavis us canto lloances."
+              },
+              {
+                "text": "Vós sou l’aigua viva,"
+              },
+              {
+                "text": "Vós la font que em salva."
+              },
+              {
+                "text": "El meu cor exulta davant la vostra obra."
+              },
+              {
+                "text": "Vós doneu la vida, Vós sou el meu Déu."
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 32,
+    idioma: {
+      "catala": {
+        "titol": "Canta al·leluia al Senyor",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Canta al·leluia al Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "si",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "canta al·leluia al Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "si",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "FA#",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "canta al·leluia, canta al·leluia,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "canta al·leluia al Senyor.",
+                "acordsASobre": [
+                  {
+                    "nota": "si",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 13
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "1. El Senyor és aquí i es mou entre nosaltres.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 39
+                  }
+                ]
+              },
+              {
+                "text": "Aquí està, el sentim, Al·leluia!",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "FA#",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "Aquí està i Ell vol fer meravelles.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "Aquí està, el sentim, Al·leluia!",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 30
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Canta al·leluia al Senyor,"
+              },
+              {
+                "text": "canta al·leluia al Senyor,"
+              },
+              {
+                "text": "canta al·leluia, canta al·leluia,"
+              },
+              {
+                "text": "canta al·leluia al Senyor."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "2. El Senyor és el Senyor,"
+              },
+              {
+                "text": "el lloem i l’adorem."
+              },
+              {
+                "text": "El Senyor és el Senyor,"
+              },
+              {
+                "text": "li cantem, al·leluia."
+              },
+              {
+                "text": "El Senyor és el Senyor"
+              },
+              {
+                "text": "i aixequem els nostres braços."
+              },
+              {
+                "text": "El Senyor ahir i avui i per l’eternitat."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Canta al·leluia al Senyor,"
+              },
+              {
+                "text": "canta al·leluia al Senyor,"
+              },
+              {
+                "text": "canta al·leluia, canta al·leluia,"
+              },
+              {
+                "text": "canta al·leluia al Senyor."
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 33,
+    idioma: {
+      "catala": {
+        "titol": "Atents amics en la nit del mon (prego pasqual)",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "(solista)"
+              },
+              {
+                "text": "Atents amics en la nit del món.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Sentiu com neix una nova llum.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Alcem-nos tots, el cor vigilant:",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 30
+                  }
+                ]
+              },
+              {
+                "text": "És el Crist que avui ens salva.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 32
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "(Tots)"
+              },
+              {
+                "text": "Fosca la nit al nostre entorn,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "nova la llum hi ha brillat.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "Seguint la flama nit endins,",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "seguim el Crist ressuscitat.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 24
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Lluents els rostres flamejants,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "cantem l’alegre al·leluia,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "al Crist que ha destruït la mort:",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "morint la vida ens ha guanyat.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 28
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Avui amb Ell tot neix de nou;",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "Avui amb Ell tots hem vençut.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 15
+                  }
+                ]
+              },
+              {
+                "text": "Avui la Vida i la Mort, avui tot canta d’amor.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 42
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Lluents els rostres flamejants,"
+              },
+              {
+                "text": "cantem l’alegre al·leluia,"
+              },
+              {
+                "text": "al Crist que ha destruït la mort:"
+              },
+              {
+                "text": "morint la vida ens ha guanyat."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "(Solista)"
+              },
+              {
+                "text": "Seguim companys el Crist vencedor",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "amb pas ben ferm i sense cap por."
+              },
+              {
+                "text": "Ell ens emmena cap un Nou Jorn:",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "Som del Crist que avui ens salva.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 34,
+    idioma: {
+      "catala": {
+        "titol": "Jesus es el cami, Ell es la Veritat",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Jesús és el camí, Ell és la Veritat,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "Jesucrist és la Vida i Ell m’ha  salvat.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 37
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 33
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 35,
+    idioma: {
+      "catala": {
+        "titol": "Benvolgut Pare tornem cecs i cansats",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "1. Benvolgut Pare tornem cecs i cansats.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 36
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "Feu-nos el do de la teva amistat.",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "Que visquem sempre la joia del perdó,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 35
+                  }
+                ]
+              },
+              {
+                "text": "que ocupem sempre un lloc al teu costat.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 36
+                  }
+                ]
+              },
+              {
+                "text": "A les mans teves posem nostre pecat,",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 33
+                  }
+                ]
+              },
+              {
+                "text": "estem segurs del teu amor fidel.",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "Dóna’ns la força que ens cal per caminar",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 37
+                  }
+                ]
+              },
+              {
+                "text": "cercant humils la teva voluntat.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 28
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Pare, ja ho veus, hem pecat.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "Pare, tornem a tu.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "Mira’ns, ens  sentim fills teus:",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "Pare tornem a tu.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 14
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "2. Ja veus que fàcil ens és tornar a oblidar"
+              },
+              {
+                "text": "que ets nostre Pare i ens tractes com a fills."
+              },
+              {
+                "text": "Que no hem de témer,"
+              },
+              {
+                "text": "que tu ens vols tal com som."
+              },
+              {
+                "text": "Només demanes nostra sinceritat."
+              },
+              {
+                "text": "Ens cal aprendre a sentir-nos a prop teu;"
+              },
+              {
+                "text": "a reconèixer que el teu amor és gran,"
+              },
+              {
+                "text": "sentir-nos lliures en viure com a fills"
+              },
+              {
+                "text": "i dedicar-nos a ser tots més germans."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Pare, ja ho veus, hem pecat."
+              },
+              {
+                "text": "Pare, tornem a tu."
+              },
+              {
+                "text": "Mira’ns, ens  sentim fills teus:"
+              },
+              {
+                "text": "Pare tornem a tu."
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 36,
+    idioma: {
+      "catala": {
+        "titol": "Canta al·leluia! Joiosos cantem",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Canta al·leluia! Canta al·leluia!",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "Crida al·leluia!",
+                "acordsASobre": [
+                  {
+                    "nota": "sol#",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "El Senyor regna amb força i poder.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "Oh! El Senyor regna amb força i poder.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Joiosos cantem d’alegria,",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "glorifiquem el seu nom;",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "joiosos cantem d’alegria.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "El Senyor regna amb força i poder.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "Oh! El Senyor regna amb força i poder.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 37,
+    idioma: {
+      "catala": {
+        "titol": "Deu es bo, cantem i cridem",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Déu és bo, cantem i cridem:",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "Déu és bo, ho celebrem.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "Déu és bo, no dubtarem més.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "Déu és bo, n’estem ben certs.",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 24
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Quan dintre meu sento el seu amor,",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "lloa el meu cor, sento com batega.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 35
+                  }
+                ]
+              },
+              {
+                "text": "I en el seu cor tinc estada jo,",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "i corrent envers Ell me’n vaig.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA#",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 29
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+  {
+    numero: 38,
+    idioma: {
+      "catala": {
+        "titol": "Crist es viu en mi, Al·leluia",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Crist és viu en mi, Al·leluia!",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "Crist és viu en mi.",
+                "acordsASobre": [
+                  {
+                    "nota": "si",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Quina meravella és",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "que Ell sigui viu en mi.        (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  }
+                ],
+                "acordsASota": [
+                  {
+                    "nota": "(",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 23
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Crist és viu en tu, Al·leluia!"
+              },
+              {
+                "text": "Crist és viu en tu."
+              },
+              {
+                "text": "Quina meravella és"
+              },
+              {
+                "text": "que Ell sigui viu en tu.        (2)"
+              }
+            ]
+          }
+        ]
+      }
+
+    }
+  },
+
 
   // {
   //   numero: ,
