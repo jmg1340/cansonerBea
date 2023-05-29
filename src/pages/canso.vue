@@ -4,8 +4,9 @@
 
     <div class="row justify-between items-center">
       <div class="col-auto q-ml-sm">
-        Cançoner: <q-chip dense color="cyan-2">{{ cansoner }}</q-chip>
-        Número: <q-chip dense color="cyan-2">{{ canso.numero }}</q-chip>
+        <q-chip dense color="cyan-2">{{ canso.numero }} - {{ cansoner }}</q-chip>
+        <!-- Cançoner: <q-chip dense color="cyan-2">{{ cansoner }}</q-chip>
+        Número: <q-chip dense color="cyan-2">{{ canso.numero }}</q-chip> -->
       </div>
 
       <div class="col text-center" >

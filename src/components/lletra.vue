@@ -1,12 +1,14 @@
 <template>
   <!-- <pre>{{ estrofa }}</pre> -->
 
-    <q-card v-for="(objEstrofa, index) in lletra" :key="index" class="q-pa-sm q-mb-s">
+    <div v-for="(objEstrofa, index) in lletra" :key="index">
       <cmp_Estrofa
-      v-if="store.opcioAcords ? objEstrofa.visibleAlsMusics : true"
       :estrofa="objEstrofa"
+      class="q-pa-sm"
       />
-    </q-card>
+      <q-separator v-if="store.opcioAcords === false" key="1"/>
+      <q-separator v-else-if="objEstrofa.visibleAlsMusics !== false" key="2"/>
+    </div>
 
 </template>
 

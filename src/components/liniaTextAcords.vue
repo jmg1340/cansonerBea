@@ -15,7 +15,7 @@
       <div v-html="acordsTextASota" class="text-blue text-bold"/>
     </div>
     <div v-else>
-      {{ linia.text}}
+      {{ linia.text + (puntsSuspensius ? " ..." : "")}}
     </div>
 
   </div>
@@ -25,6 +25,7 @@
 import { defineComponent, ref, computed } from 'vue'
 import { useCansonerStore } from '../stores/example-store'
 
+
 export default defineComponent({
   name: 'liniaTextAcords',
   props: {
@@ -32,6 +33,11 @@ export default defineComponent({
       type: Object,
       required: true
     },
+    puntsSuspensius: {
+      type: Boolean,
+      // required: true,
+      default: false
+    }
   },
 
   setup( props ){
@@ -42,8 +48,9 @@ export default defineComponent({
     // }
 
     const linia = props.linia
-    const textAmbEspais = computed ( () => linia.text.replaceAll(" ", "&nbsp;"))
+    const puntsSuspensius = props.puntsSuspensius
 
+    const textAmbEspais = computed ( () => linia.text.trimEnd() )
 
 
     const acordsTextASobre = computed ( () => {
@@ -82,7 +89,7 @@ export default defineComponent({
 
         // console.log("textAcords", "[" + textAcords + "]")
         // console.log("textAcords.length", textAcords.length)
-        return textAcords.replaceAll(" ", "&nbsp;")
+        return textAcords.trimEnd().replaceAll(" ", "&nbsp;")
 
       } else {
         return null
@@ -95,7 +102,8 @@ export default defineComponent({
       textAmbEspais,
       acordsTextASobre,
       acordsTextASota,
-      store
+      store,
+      puntsSuspensius
     }
 
   }

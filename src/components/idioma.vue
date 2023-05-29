@@ -1,12 +1,13 @@
 <template>
 
   <div class="row justify-center">
-    <q-card class="col-auto q-pa-md q-mb-md">
+    <div class="col-auto q-pa-md q-mb-md">
       <div class="text-center text-h6 text-grey-5"> {{ idioma.titol }}</div>
       <cmp_Lletra :lletra="idioma.lletra"/>
-    </q-card>
+    </div>
   </div>
 
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </template>
 
 <script>
