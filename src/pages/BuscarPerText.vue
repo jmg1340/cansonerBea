@@ -57,6 +57,8 @@
           <th class="text-center thCansoner">C</th>
           <th class="text-center thTitol">Titol</th>
           <th class="text-center thNumero">idioma</th>
+          <th class="text-center thNumero">acords</th>
+          <th class="text-center thNumero">audio</th>
           <th class="text-center thNumero">#</th>
         </tr>
       </thead>
@@ -64,12 +66,18 @@
         <tr
           v-for="(info,index) in cansonsTrobades"
           :key="`llC-${index}`"
-          @click="mostrarCansoDeLaTaula(info.clau, info.numero)"
+          @click="mostrarCansoDeLaTaula(info.clau, info.numero, info.idioma)"
         >
 
           <td > {{ info.clau }}</td>
           <td class="q-px-xs tdTitol">{{ info.titol }}</td>
           <td class="text-center">{{ info.idioma}}</td>
+          <td class="text-center">
+            <q-icon name="music_note" v-if="info.acords" />
+          </td>
+          <td class="text-center">
+            <q-icon name="volume_up" v-if="info.audio" />
+          </td>
           <td class="text-center">{{info.numero}}</td>
 
         </tr>
@@ -128,18 +136,19 @@ export default defineComponent({
       cansonersFiltrats = cansoners.value.filter( obj => cansonersSeleccionats.value.includes( obj.clau ) )
 
       // console.log( cansonersFiltrats )
-      // console.log( arrDadesPeraConsulta.value )
+      // console.log( arrDadesPeraConsulta() )
 
 
       // ferm la busqueda segons el text a buscar
       // let cansonsTrobades = []
       cansonsTrobades.value = arrDadesPeraConsulta().filter( objDPC => {
         return objDPC.lletra.some ( liniaTxt => {
+          // console.log( objDPC.numero + " - " + liniaTxt )
           return senseAccents(liniaTxt.toLowerCase()).includes( senseAccents(textABuscar.value.toLowerCase()) )
         })
-      }).map ( obj => ({ clau: obj.clau, numero: obj.numero, idioma: obj.idioma, titol: obj.titol }))
+      }).map ( obj => ({ clau: obj.clau, numero: obj.numero, idioma: obj.idioma, titol: obj.titol, acords: obj.acords, audio: obj.audio }))
 
-      // console.log( "cansonsTrobades",  cansonsTrobades.value )
+      console.log( "cansonsTrobades",  cansonsTrobades.value )
 
     }
 
@@ -147,7 +156,7 @@ export default defineComponent({
 
 
     // Preparem les dades sobre la que farem la busqueda
-    // Construccio array de { clau, numero cançó, idioma cançó, titol canço, lletra cançó }
+    // Construccio array de { clau, numero cançó, idioma cançó, titol canço, lletra cançó, acords(true/false), audio(true/false) }
     const arrDadesPeraConsulta = () => {
 
       let arrDPC = []
@@ -173,6 +182,13 @@ export default defineComponent({
             // afegim el titol a la lletra
             objR.lletra.unshift( objR.titol)
 
+
+            objR.acords = objCanso.idioma[strIdioma].lletra.some( estrofa => {
+              return estrofa.paragraf.some( ( linia ) => linia.hasOwnProperty('acordsASobre') ) 
+            })
+            objR.audio = objCanso.idioma[strIdioma].hasOwnProperty('audio') && objCanso.idioma[strIdioma].audio !== null
+
+
             // console.log( "objR", JSON.parse(JSON.stringify(objR)) )
 
             // quan faig push de objR, tots valors son de l'ultim objecte (¿?)
@@ -192,6 +208,7 @@ export default defineComponent({
 
       })
 
+      // console.log( 'arrDPC', arrDPC)
       return arrDPC
     }
 
@@ -210,8 +227,8 @@ export default defineComponent({
     }
 
 
-    const mostrarCansoDeLaTaula = ( clauCansoner, numero) => {
-      router.push({ name: "canso", query: { cansoner: clauCansoner,  numero } })
+    const mostrarCansoDeLaTaula = ( clauCansoner, numero, idioma) => {
+      router.push({ name: "canso", query: { cansoner: clauCansoner,  numero, idioma } })
     }
 
 

@@ -8,7 +8,7 @@
     </div>
     <div v-else-if="linia.acordsASobre && store.opcioAcords" class="lletraAmpladaFixe" >
       <div v-html="acordsTextASobre" class="text-blue text-bold"/>
-      <div v-html="textAmbEspais" />
+      <div v-html="textAmbEspais" class="no-wrap " />
     </div>
     <div v-else-if="linia.acordsASota && store.opcioAcords" class="lletraAmpladaFixe" >
       <div v-html="textAmbEspais" />

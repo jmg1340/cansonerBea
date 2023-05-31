@@ -2,7 +2,7 @@
 
   <div>
 
-    <div class="row justify-between items-center">
+    <div class="row justify-evenly items-center">
       <div class="col-auto q-ml-sm">
         <q-chip dense color="cyan-2">{{ canso.numero }} - {{ cansoner }}</q-chip>
         <!-- Cançoner: <q-chip dense color="cyan-2">{{ cansoner }}</q-chip>
@@ -11,6 +11,10 @@
 
       <div class="col text-center" >
         <q-checkbox v-model="store.opcioAcords" label="acords"/>
+      </div>
+
+      <div class="col-3">
+        <q-slider v-model="tamanyLletra" :min="14" :max="50" markers label-always switch-label-side/>
       </div>
 
       <div class="col-auto">
@@ -27,7 +31,10 @@
             :key="'t'+index"
             :name="idioma"
             :label="idioma"
-          />
+            no-Caps
+          >
+            <!-- <q-icon :name="'img:'+objBanderes[idioma]" /> -->
+          </q-tab>
         </q-tabs>
       </div>
     </div>
@@ -44,7 +51,9 @@
         :key="'tp'+index"
         :name="idioma"
       >
-        <cmp_idioma :idioma="canso.idioma[idioma]" />
+        <div :style="{'font-size': tamanyLletra  + 'px'}">
+          <cmp_idioma :idioma="canso.idioma[idioma]" />
+        </div>
       </q-tab-panel>
 
     </q-tab-panels>
@@ -73,13 +82,21 @@ export default defineComponent({
 
     const cansoner = route.query.cansoner
     const numero = route.query.numero
+    const idioma = route.query.idioma
 
-    console.log( "cansoner", cansoner )
-    console.log( "numero", numero )
+    const objBanderes = {
+      catala: "~assets/banderaCatalana.png",    // "~assets/banderaCatalana.svg"
+      castella: "~assets/banderaEspanyola.svg",
+    }
+
+    const tamanyLletra = ref(14)
+
+    // console.log( "cansoner", cansoner )
+    // console.log( "numero", numero )
 
 
     const cansoners = store.cansoners
-    console.log( "cansoners", cansoners )
+    // console.log( "cansoners", cansoners )
 
     // const cansoners = {
     //   cansonerProva
@@ -88,9 +105,9 @@ export default defineComponent({
     // const opcioAcords = ref( false )
 
     const arrCansonsCansoner = cansoners.find( obj => obj.clau === cansoner ).arrCansons
-    console.log ("arrCansonsCansoner", arrCansonsCansoner )
+    // console.log ("arrCansonsCansoner", arrCansonsCansoner )
     const canso = arrCansonsCansoner.find( obj => obj.numero === parseInt( numero ))
-    console.log ("canso", canso )
+    // console.log ("canso", canso )
 
     // {
     // numero: 1,
@@ -186,10 +203,10 @@ export default defineComponent({
     // }
 
     const arrIdiomes = computed ( () => Object.keys(canso.idioma) )
-    const tab = ref( arrIdiomes.value[0] )
+    const tab = ref( idioma )
 
 
-    return { arrIdiomes, tab, canso, cansoner, store }
+    return { arrIdiomes, tab, canso, cansoner, store, objBanderes, tamanyLletra }
 
   }
 

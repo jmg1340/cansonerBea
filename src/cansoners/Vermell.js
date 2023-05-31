@@ -3100,18 +3100,18 @@ export default [
               },
               {
                 "text": "Que lloï el Senyor  tot el que respira. Al·leluia."
-              },
+              }
+            ],
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
               {
-                "tipus": "tornada",
-                "visibleAlsMusics": false,
-                "paragraf": [
-                  {
-                    "text": "Al·leluia, al·leluia, al·leluia, al·leluia.    (2)"
-                  }
-                ]
-              },
+                "text": "Al·leluia, al·leluia, al·leluia, al·leluia.    (2)"
+              }
             ]
-          }
+          },
         ]
       }
 
@@ -33361,10 +33361,10 @@ export default [
     }
   },
   {
-    numero: 166,
+    numero: 167,
     idioma: {
       "catala": {
-        "titol": "Senyor jo et lloo",
+        "titol": "Senyor meu i Déu meu",
         "audio": [
           {
             "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
@@ -41635,7 +41635,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Ell vindrà i et salvarà"
@@ -44438,7 +44438,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Beneiré al Senyor amb tot el meu cor"
@@ -44474,7 +44474,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Beneiré al Senyor amb tot el meu cor"
@@ -44510,7 +44510,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Beneiré al Senyor amb tot el meu cor"
@@ -46425,7 +46425,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Crist és qui mou les muntanyes"
@@ -46553,7 +46553,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Cristo puede mover montes. Sólo Dios puede salvar,"
@@ -46586,7 +46586,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Cristo puede mover montes. Sólo Dios puede salvar,"
@@ -47026,7 +47026,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Tot i que travessi la vall de la mort"
@@ -47100,7 +47100,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": false,
+            "visibleAlsMusics": 1,
             "paragraf": [
               {
                 "text": "Tot i que travessi la vall de la mort"
@@ -49054,7 +49054,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": true,
+            "visibleAlsMusics": false,
             "paragraf": [
               {
                 "text": "'Diles cuánto les quiero,"
@@ -49090,7 +49090,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": true,
+            "visibleAlsMusics": false,
             "paragraf": [
               {
                 "text": "'Diles cuánto les quiero,"
@@ -49469,7 +49469,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": true,
+            "visibleAlsMusics": false,
             "paragraf": [
               {
                 "text": "Alégrate salta de gozo"
@@ -49502,7 +49502,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": true,
+            "visibleAlsMusics": false,
             "paragraf": [
               {
                 "text": "Alégrate salta de gozo"
@@ -49535,7 +49535,7 @@ export default [
           },
           {
             "tipus": "tornada",
-            "visibleAlsMusics": true,
+            "visibleAlsMusics": false,
             "paragraf": [
               {
                 "text": "Alégrate salta de gozo"
@@ -50422,7 +50422,7 @@ export default [
     }
   },
   {
-    numero: 506,
+    numero: 505,
     idioma: {
       "castella": {
         "titol": "Cristo tomo mi carga",
@@ -58808,6 +58808,5354 @@ export default [
     
     }
   },
+
+  {
+    numero: 544,
+    idioma: {
+      "castella": {
+        "titol": "GLORIA! LA IGLESIA CANTA - Himno Roma 2014",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "¡Gloria! Toda la iglesia canta.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Ora y unida espera solo en ti.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL#",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "SIb",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "Pronto, ven a nosotros, pronto.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Nuestras manos alzamos hacia ti.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL#",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "SIb",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 29
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Aleluya, aleluya, aquí estamos para ti,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 36
+                  }
+                ]
+              },
+              {
+                "text": "nuestro Dios y nuestro Rey.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "Aleluya, aleluya cantamos, anunciando",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "al mundo que Jesús, Jesús, es Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "SOL#",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "SIb",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 33
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Brilla, manda tu luz y brilla obre los que esperamos en tu amor."
+              },
+              {
+                "text": "Llena, manda tu gracia y llena"
+              },
+              {
+                "text": "el corazón perdido y sin ti."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Oh, oh, oh, oh."
+              },
+              {
+                "text": "Ven, ven, oh Señor y reina, reina Señor y ama."
+              },
+              {
+                "text": "Ama, Señor, y salva (2)"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Aleluya, aleluya, aquí estamos para ti,"
+              },
+              {
+                "text": "nuestro Dios y nuestro Rey."
+              },
+              {
+                "text": "Aleluya, aleluya cantamos, anunciando"
+              },
+              {
+                "text": "al mundo que Jesús, Jesús, es Señor."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 545,
+    idioma: {
+      "castella": {
+        "titol": "OH, ESPÍRITU SANTO DIOS (Caiga…) - Josep Asunción (Betania)",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Caiga sobre la tierra reseca del hombre tu lluvia, mi",
+                "acordsASobre": [
+                  {
+                    "nota": "mim",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 34
+                  }
+                ]
+              },
+              {
+                "text": "Dios. Sopla en las estancias cerradas de mi alma tu",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 45
+                  }
+                ]
+              },
+              {
+                "text": "viento, Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 12
+                  }
+                ]
+              },
+              {
+                "text": "Y quema con tu fuego las zarzas que impiden crecer",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 45
+                  }
+                ]
+              },
+              {
+                "text": "tu Palabra en mí. Rompe con tu espada los",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "hierros que me atan, derrumba mis muros, Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 43
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 45
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Oh Espíritu Santo, Espíritu Santo Dios (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 34
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Baja a los infiernos, oh Cristo, y rescata a los hijos de Dios. Unge con tus aceites benditos la herida de su corazón."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Oh Espíritu Santo, Espíritu Santo Dios (2)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Rasga con tu muerte el velo del templo, ¡que tiemble la tierra, Señor! Que entre en el santuario la luz de la vida y veamos tu rostro, Yahvé."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Oh Espíritu Santo, Espíritu Santo Dios (2)"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 546,
+    idioma: {
+      "castella": {
+        "titol": "QUE MI BOCA CANTE TU ALABANZA - F. Deboeuf (Comunidad Emmanuel)",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "De ti, Señor, nuestra vida nació.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "** Que mi boca cante tu alabanza.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "Tú eres mi apoyo y refugio, Señor. ** Que mi boca..."
+              },
+              {
+                "text": "En ti se alegra y canta mi ser. ** Que mi boca...",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 42
+                  }
+                ]
+              },
+              {
+                "text": "Mi confianza está en tu bondad. ** Que mi boca...",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 38
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 39
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 41
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 42
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 43
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 45
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 46
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 49
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Te alabamos hoy, por tu poder. Te alabamos por tu",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 39
+                  }
+                ]
+              },
+              {
+                "text": "bondad. Gloria a Ti, Señor, Tú, vencedor.",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 34
+                  }
+                ]
+              },
+              {
+                "text": "Que me inunde tu gran amor. ** Que mi boca...",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "9",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "En nuestras noches Tú eres la luz. ** Que mi boca..."
+              },
+              {
+                "text": "En nuestro andar brillas con claridad. ** Que mi boca..."
+              },
+              {
+                "text": "En nuestras pruebas la fuerza nos das. ** Que mi boca..."
+              },
+              {
+                "text": "Tú, en el combate, la roca y la paz. ** Que mi boca..."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Te alabamos hoy, por tu poder. Te alabamos por tu"
+              },
+              {
+                "text": "bondad. Gloria a Ti, Señor, Tú, vencedor."
+              },
+              {
+                "text": "Que me inunde tu gran amor. ** Que mi boca..."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "A los perdidos viniste a salvar. ** Que mi boca..."
+              },
+              {
+                "text": "Su corazón quieres Tú transformar. ** Que mi boca..."
+              },
+              {
+                "text": "En sus angustias clamaron a Ti. ** Que mi boca..."
+              },
+              {
+                "text": "Has escuchado su voz, oh Señor. ** Que mi boca..."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Te alabamos hoy, por tu poder. Te alabamos por tu"
+              },
+              {
+                "text": "bondad. Gloria a Ti, Señor, Tú, vencedor."
+              },
+              {
+                "text": "Que me inunde tu gran amor. ** Que mi boca..."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Del enemigo me has hecho vencer. ** Que mi boca..."
+              },
+              {
+                "text": "Del agresor Tú me has hecho triunfar. ** Que mi boca..."
+              },
+              {
+                "text": "Gracias Señor, esta es mi oración. ** Que mi boca..."
+              },
+              {
+                "text": "Siempre tu Nombre yo bendeciré. ** Que mi boca..."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Te alabamos hoy, por tu poder. Te alabamos por tu"
+              },
+              {
+                "text": "bondad. Gloria a Ti, Señor, Tú, vencedor."
+              },
+              {
+                "text": "Que me inunde tu gran amor. ** Que mi boca..."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 547,
+    idioma: {
+      "castella": {
+        "titol": "ACLAMAD AL SEÑOR [Salmo 33 (32)] - Lori Black",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "La tierra está llena de la Misericordia del Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "mim",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 51
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 47
+                  }
+                ]
+              },
+              {
+                "text": "Por su palabra fueron hechos",
+                "acordsASobre": [
+                  {
+                    "nota": "mim",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "los cielos y las aguas del mar",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 31
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Aclamad al Señor con los instrumentos,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "aclamad al Señor con júbilo.",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "6",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "Aclamad al Señor con los instrumentos,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "cantadle un cántico nuevo.",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "6",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 21
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "(sim7 para ir a estrofa"
+              },
+              {
+                "text": "MI para repetir estribillo)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Para terminar:"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "…cantadle un cántico nuevo,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "6",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "cantadle un cántico nuevo,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "6",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "cantadle un cántico nuevo.",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "6",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 21
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 548,
+    idioma: {
+      "castella": {
+        "titol": "A TI CANTAMOS, CRISTO REY- Rinnovamento nello",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Alabado seas Señor, Rey de paz y de victoria,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "en pobreza y humildad, has llamado a nuestra puerta.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 47
+                  }
+                ]
+              },
+              {
+                "text": "Buen maestro, nos enseñas a amarnos,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "este pueblo a Ti eleva hoy su canto.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 37
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 38
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 40
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "A ti cantamos, Cristo Rey del Universo.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "Tú, Divino Redentor, nos habitas con amor.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "DO#",
+                    "pos": 38
+                  }
+                ]
+              },
+              {
+                "text": "Te proclamamos, Cristo Rey del Universo,",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 34
+                  }
+                ]
+              },
+              {
+                "text": "en nosotros brilla hoy tu luz.",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 26
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sólo en Ti nuestra esperanza, grande es tu fidelidad;",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 30
+                  }
+                ]
+              },
+              {
+                "text": "has curado nuestras vidas con amor y con bondad.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 45
+                  }
+                ]
+              },
+              {
+                "text": "Tú nos guías, nos consuela tu esperanza,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 34
+                  }
+                ]
+              },
+              {
+                "text": "este pueblo a Ti eleva su alabanza.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 31
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "A ti cantamos, Cristo Rey del Universo."
+              },
+              {
+                "text": "Tú, Divino Redentor, nos habitas con amor."
+              },
+              {
+                "text": "Te proclamamos, Cristo Rey del Universo,"
+              },
+              {
+                "text": "en nosotros brilla hoy tu luz."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 549,
+    idioma: {
+      "castella": {
+        "titol": "ALGO ESTÁ CAYENDO AQUÍ - José Luis Reyes",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1ZH5ONnUWMmoCTdT8Fkb9JM8dQ3x83aOm",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Intro: MI - SI (arpegio, 4 tiempos)"
+              },
+              {
+                "text": "              MI-SI-LA (ritmo, 2 tiempos)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Algo está cayendo aquí,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "es tan fuerte sobre mí.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "Mis manos levantaré",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "y su gloria tocaré (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 20
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Está cayendo",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 7
+                  }
+                ]
+              },
+              {
+                "text": "su gloria sobre mí,",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "sanando heridas,",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "levantando al caído,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "su gloria está aquí (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 17
+                  }
+                ]
+              },
+              {
+                "text": "su gloria está aquí",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "catala": {
+        "titol": "UNA FORÇA ESTIC NOTANT - José Luis Reyes",
+        "audio": [
+          {
+            "src": "https://docs.google.com/uc?export=&id=1ZH5ONnUWMmoCTdT8Fkb9JM8dQ3x83aOm",
+            "type": "audio/mp3"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Intro: MI - SI (arpegio, 4 tiempos)"
+              },
+              {
+                "text": "              MI-SI-LA (ritmo, 2 tiempos)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Una força estic notant, ",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "ben a prop al meu voltant. ",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "Les meves mans alçaré",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "i la glòria tocaré.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 20
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Está caient,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 7
+                  }
+                ]
+              },
+              {
+                "text": "la seva glòria sobre meu ",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "guarint les ferides,",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "consolant els qui el criden,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "la seva glòria és aquí. (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 17
+                  }
+                ]
+              },
+              {
+                "text": "la seva glòria és aquí.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 550,
+    idioma: {
+      "castella": {
+        "titol": "FIEL - Miguel Horacio",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "INTRO: desde el SOL"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Fiel, Fiel es Él,      para cumplir lo que Él prometió (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 36
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 39
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 40
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 50
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sus palabras firmes son no te dejes enga- ……. ñar",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 40
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 43
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 44
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 45
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 49
+                  }
+                ]
+              },
+              {
+                "text": "mi Dios  es fiel,        siempre fiel.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 38
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 14
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Fiel, Fiel es Él, para cumplir lo que Él prometió (2)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sus palabras firmes son no te dejes enga- ……. ñar"
+              },
+              {
+                "text": "mi Dios  es fiel, siempre fiel."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Fiel, siempre fiel.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 551,
+    idioma: {
+      "castella": {
+        "titol": "SI NO TENGO AMOR    Brotes de Olivo",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Si no tengo amor no soy nada.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "Nada soy si no tengo amor.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "Nada soy, nada soy si no tengo amor",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 552,
+    idioma: {
+      "castella": {
+        "titol": "AL ESTAR ANTE TI - Jesús Adrián Romero & Alejandro del Bosque",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Al estar ante ti adorando frente al mar de cristal,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 45
+                  }
+                ]
+              },
+              {
+                "text": "entre la multitud en asombro allí me habré de postrar.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 48
+                  }
+                ]
+              },
+              {
+                "text": "Y mi canto uniré a millones proclamándote Rey,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 42
+                  }
+                ]
+              },
+              {
+                "text": "y mi voz oirás entre las multitudes cantar:",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 40
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 43
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 44
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Digno es el Cordero de Dios,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 15
+                  }
+                ]
+              },
+              {
+                "text": "el que fue inmolado en la cruz,",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "digno de la honra y el poder, la sabiduría suya es.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "Y al que está en el trono sea el honor.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Santo, Santo, Santo es el Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "Reina por los siglos con poder,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "1. todo lo que existe es por Él.",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SIb",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 30
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Al estar ante ti adorando frente al mar de cristal,"
+              },
+              {
+                "text": "entre la multitud en asombro allí me habré de postrar."
+              },
+              {
+                "text": "Y mi canto uniré a millones proclamándote Rey,"
+              },
+              {
+                "text": "y mi voz oirás entre las multitudes cantar:"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Digno es el Cordero de Dios,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 15
+                  }
+                ]
+              },
+              {
+                "text": "el que fue inmolado en la cruz,",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "digno de la honra y el poder, la sabiduría suya es.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "Y al que está en el trono sea el honor.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Santo, Santo, Santo es el Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "Reina por los siglos con poder,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "2. todo lo que existe es por Él.",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "SIb",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "todo lo que existe es por Él.",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 553,
+    idioma: {
+      "castella": {
+        "titol": "HIMNO 2017. ENVIA FUEGO - Autor:“Ruhitos” (Ruah)",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Quiero ser soldado, quiero tu poder,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 33
+                  }
+                ]
+              },
+              {
+                "text": "Conquistar tus tierras, ser testigo fiel,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 38
+                  }
+                ]
+              },
+              {
+                "text": "Quiero hoy tu gracia para proclamar",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "Que ¡Eres Rey, Tú mi Rey!",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Envía fuego a este lugar,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "Prende esta tierra una vez más.",
+                "acordsASobre": [
+                  {
+                    "nota": "sim",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "/",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "M",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "Danos tu Espíritu Señor,",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "¡Que brille tu fuego! (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 16
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Armados con tus dones de Pentecostés"
+              },
+              {
+                "text": "Iré por el mundo, lenguas hablaré."
+              },
+              {
+                "text": "Si vienes conmigo yo proclamaré"
+              },
+              {
+                "text": "¡Que eres Rey, Tú mi Rey!"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Envía fuego a este lugar,"
+              },
+              {
+                "text": "Prende esta tierra una vez más."
+              },
+              {
+                "text": "Danos tu Espíritu Señor,"
+              },
+              {
+                "text": "¡Que brille tu fuego! (2)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Todas tus promesas hoy se cumplirán"
+              },
+              {
+                "text": "Pueblo de profetas tú enviarás."
+              },
+              {
+                "text": "Guiados por tu Espíritu proclamarán"
+              },
+              {
+                "text": "que eres Rey tu mi Rey"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Envía fuego a este lugar,"
+              },
+              {
+                "text": "Prende esta tierra una vez más."
+              },
+              {
+                "text": "Danos tu Espíritu Señor,"
+              },
+              {
+                "text": "¡Que brille tu fuego! (2)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Envía fuego, fuego, fuego, envía fuego, fuego, fuego,",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 48
+                  }
+                ]
+              },
+              {
+                "text": "envía fuego, fuego, fuego, envía fuego...",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 34
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 554,
+    idioma: {
+      "castella": {
+        "titol": "SOLO TU ESPÍRITU DA VIDA. Himno Asamblea 2018",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sólo tu Espíritu da vida, tu Espíritu da vida.",
+                "acordsASobre": [
+                  {
+                    "nota": "(",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 1
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "fa#",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 41
+                  }
+                ]
+              },
+              {
+                "text": "Sólo tu Espíritu da vida, Señor. (x2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 26
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "¿A quién iremos? Sólo Tú, solo Tú",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "tienes palabras. Sólo Tú, solo Tú de vida eterna.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 42
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 45
+                  },
+                  {
+                    "nota": "mim",
+                    "pos": 46
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 49
+                  }
+                ]
+              },
+              {
+                "text": "¡Sólo Tú,   solo Tú!",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 19
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Sólo tu Espíritu da vida, tu Espíritu da vida."
+              },
+              {
+                "text": "Sólo tu Espíritu da vida, Señor. (x2)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "El que nos une es Jesús, es Jesús."
+              },
+              {
+                "text": "Pan de vida, es Jesús, es Jesús Resucitado."
+              },
+              {
+                "text": "¡Vive en mí, vive en mí!"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Sólo tu Espíritu da vida, tu Espíritu da vida."
+              },
+              {
+                "text": "Sólo tu Espíritu da vida, Señor. (x2)"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Soy tu soldado, mi Señor, mi Señor."
+              },
+              {
+                "text": "Hazme Valiente, mi Señor, mi Señor guíame siempre."
+              },
+              {
+                "text": "¡Guíame, guíame!"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Sólo tu Espíritu da vida, tu Espíritu da vida."
+              },
+              {
+                "text": "Sólo tu Espíritu da vida, Señor. (x2)"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 555,
+    idioma: {
+      "castella": {
+        "titol": "QUIERO ESCUCHAR TU DULCE VOZ   Marcos Witt",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Quiero escuchar tu dulce voz,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "rompiéndo el silencio en mi ser",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "Se que me haría estremecer",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "y me haría llorar o reír",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "y caería rendido ante tí",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 22
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Y no podría, estar ante tí",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 15
+                  }
+                ]
+              },
+              {
+                "text": "escuchándote hablar, sin llorar como un niño",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 40
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "Y pasaría, el tiempo así",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "sin querer nada más,",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "nada más que escucharte hablar.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "catala": {
+        "titol": "VULL ESCOLTAR LA TEVA VEU",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vull escoltar la teva veu,"
+              },
+              {
+                "text": "trencant el silenci en mi"
+              },
+              {
+                "text": "Sé que em faria tremolar,"
+              },
+              {
+                "text": "podria riure o plorar"
+              },
+              {
+                "text": "i cauria vençut als teus peus"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "I no podria estar davant teu"
+              },
+              {
+                "text": "escoltant-te parlar i no plorar com un nen."
+              },
+              {
+                "text": "i passaria l'estona així."
+              },
+              {
+                "text": "No desitjo res més"
+              },
+              {
+                "text": "que esoltar-te parlar dolçament."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 556,
+    idioma: {
+      "castella": {
+        "titol": "VENGO AQUI MI SEÑOR   Brotes de Olivo",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vengo aquí, mi Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "A olvidar las prisas de mi vida.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "Ahora solo importas tú,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Dale tu paz a mi alma.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 14
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vengo aquí, mi Señor."
+              },
+              {
+                "text": "A encontrarme con tu paz que me serena"
+              },
+              {
+                "text": "Ahora solo importas tú,"
+              },
+              {
+                "text": "Dale tu paz a mi alma."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vengo aquí, mi Señor."
+              },
+              {
+                "text": "A que en mi lo transformes todo en nuevo"
+              },
+              {
+                "text": "Ahora solo importas tú,"
+              },
+              {
+                "text": "Dale tu paz a mi alma."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vengo aquí, mi Señor."
+              },
+              {
+                "text": "A pedir que me enseñes tú proyecto."
+              },
+              {
+                "text": "Ahora solo importas tú,"
+              },
+              {
+                "text": "Dale tu paz a mi alma."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 557,
+    idioma: {
+      "castella": {
+        "titol": "VEN SEÑOR JESÚS  Kairoi",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "VEN, SEÑOR JESÚS, ¡VEN Y SÁLVANOS!",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 30
+                  }
+                ]
+              },
+              {
+                "text": "VEN, SEÑOR JESÚS, VEN, DANOS TU AMOR.",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 33
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "1. Ven, Señor Jesús, date prisa, ven",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "No puedes tardar más.",
+                "acordsASobre": [
+                  {
+                    "nota": "sol",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "Pues la humanidad esperando está",
+                "acordsASobre": [
+                  {
+                    "nota": "FA",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "Tu venida ya.",
+                "acordsASobre": [
+                  {
+                    "nota": "sol",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 8
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "VEN, SEÑOR JESÚS, ¡VEN Y SÁLVANOS!"
+              },
+              {
+                "text": "VEN, SEÑOR JESÚS, VEN, DANOS TU AMOR."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "2. Ven, Señor Jesús, y conocerán"
+              },
+              {
+                "text": "Que Tú eres la Verdad."
+              },
+              {
+                "text": "Tráenos tu paz, tú esperanza y nada más,"
+              },
+              {
+                "text": "Que nos ayude a labrar tu camino y libertad."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "VEN, SEÑOR JESÚS, ¡VEN Y SÁLVANOS!"
+              },
+              {
+                "text": "VEN, SEÑOR JESÚS, VEN, DANOS TU AMOR."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  
+
+  
+  {
+    numero: 558,
+    idioma: {
+      "castella": {
+        "titol": "EL AMOR DE DIOS HA SIDO DERRAMADO",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Porque el Amor de Dios ha sido derramado",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 40
+                  }
+                ]
+              },
+              {
+                "text": "en nuestros corazones,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "Por el Espíritu, el Espíritu Santo",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 30
+                  }
+                ]
+              },
+              {
+                "text": "que nos ha sido dado.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 17
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 559,
+    idioma: {
+      "castella": {
+        "titol": "NO MERECIA TANTO AMOR",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "En tu gran amor, tomaste mi lugar,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "Llevando sobre ti, mi culpabilidad,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "No lo puedo imaginar, como fuiste a soportar,",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "do",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "2",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "sus",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 38
+                  }
+                ]
+              },
+              {
+                "text": "El dolor de tus heridas,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "2",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "Pues me amaste sin medidas.",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "2",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "sus",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 17
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Déjame hoy besar,",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "Las heridas de tus manos y tus pies,",
+                "acordsASobre": [
+                  {
+                    "nota": "F",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "5",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "º",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "Las heridas que pecando provoqué,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "sus",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Déjame reclinar, mi mejilla en tus espaldas y llorar,",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "F",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "-",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "5",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "º",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 38
+                  },
+                  {
+                    "nota": "2",
+                    "pos": 40
+                  },
+                  {
+                    "nota": "si",
+                    "pos": 42
+                  }
+                ]
+              },
+              {
+                "text": "Por haberlas lacerado en mi maldad,",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "2",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "la",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "sus",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "No merecía tanto amor.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "sus",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "4",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 18
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "catala": {
+        "titol": "NO MEREIXIA TANT D’AMOR",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "En el teu gran amor,  et vas posar al meu lloc,"
+              },
+              {
+                "text": "portant a sobre teu, tots els meus pecats"
+              },
+              {
+                "text": "No puc pas imaginar, com tu vares suportar"
+              },
+              {
+                "text": "el dolor de les ferides"
+              },
+              {
+                "text": "doncs m'estimares sense mida."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Deixa'm avui besar"
+              },
+              {
+                "text": "les ferides de les teves mans i peus"
+              },
+              {
+                "text": "les ferides que pecant t'he provocat."
+              },
+              {
+                "text": "Oh deixa'm re cli nar"
+              },
+              {
+                "text": "el cap a la teva espatlla i plorar"
+              },
+              {
+                "text": "per haver-te ferit amb la meva maldat"
+              },
+              {
+                "text": "No mereixia tant d'amor."
+              }
+            ]
+          }
+        ]
+      }
+        
+    }
+  },
+
+  {
+    numero: 560,
+    idioma: {
+      "castella": {
+        "titol": "SU NOMBRE ES GRANDE",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Su nombre es grande, más que otro nombre,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "Su nombre es Jesús, Su nombre es Dios. (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 34
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Primero y Último, es el Testigo Fiel,"
+              },
+              {
+                "text": "De reyes Príncipe, el fuerte Dios."
+              }
+            ]
+          }
+        ]
+      },
+      "catala": {
+        "titol": "EL SEU NOM ES GRAN",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "El seu nom és gran, més que altre nom,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 35
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 15
+                  }
+                ]
+              },
+              {
+                "text": "el seu nom és Jesús, el seu nom és Déu.  (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 36
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Primer i darrer és l'Enviat,"
+              },
+              {
+                "text": "el Crist que ens salva, Déu immortal."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+
+  {
+    numero: 561,
+    idioma: {
+      "castella": {
+        "titol": "MADRE",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "1. Junto a ti, María,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  }
+                ]
+              },
+              {
+                "text": "como un niño quiero estar",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "Tómame en tus brazos",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "guíame en mi caminar",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 4
+                  }
+                ]
+              },
+              {
+                "text": "quiero que me eduques",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "que me enseñes a rezar,",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "hazme transparente",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 11
+                  }
+                ]
+              },
+              {
+                "text": "lléname de paz.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 9
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Madre,    Madre,    Madre,    Madre  (2)",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "do",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 36
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 37
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 39
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "2. Gracias, Madre mía,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 15
+                  }
+                ]
+              },
+              {
+                "text": "por llevarnos a Jesús,",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "haznos más humildes,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "tan sencillos como Tú.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 5
+                  }
+                ]
+              },
+              {
+                "text": "Gracias, Madre mía,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "por abrir tu corazón",
+                "acordsASobre": [
+                  {
+                    "nota": "do",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "#",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "porque nos congregas",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 10
+                  }
+                ]
+              },
+              {
+                "text": "y nos das tu amor.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 13
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    
+    }
+  },
+  {
+    numero: 562,
+    idioma: {
+      "castella": {
+        "titol": "Se tu cual la mujer",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Se tú cual la mujer que fue y tocó",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "el borde del vestido de Jesús.",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "Virtud salió de Él y ella sanó",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "do",
+                    "pos": 36
+                  }
+                ]
+              },
+              {
+                "text": "y si lo tocas tú sanas también.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "catala": {
+        "titol": "Sigues com la dona",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sigues com la dona que va tocar,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "la vora del vestit de Jesús,",
+                "acordsASobre": [
+                  {
+                    "nota": "la",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "gràcia en va sortir i es va curar,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "do",
+                    "pos": 36
+                  }
+                ]
+              },
+              {
+                "text": "i si la toques tu et guariràs.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 14
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 563,
+    idioma: {
+      "catala": {
+        "titol": "VINC DAVANT TEU, OH SENYOR",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vinc davant teu, oh Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 24
+                  }
+                ]
+              },
+              {
+                "text": "aclaparat per la culpa,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "amb la fe en el teu amor",
+                "acordsASobre": [
+                  {
+                    "nota": "SIb",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "que m'abraça com a fill.",
+                "acordsASobre": [
+                  {
+                    "nota": "sol",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 25
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "T'obro ben bé el meu cor,",
+                "acordsASobre": [
+                  {
+                    "nota": "re",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "t'ofereixo ma misèria",
+                "acordsASobre": [
+                  {
+                    "nota": "SIb",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "FA",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "despullat del que és meu,",
+                "acordsASobre": [
+                  {
+                    "nota": "sol",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "vull emplenar-me de Tu.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 22
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Que el teu Esperit, Senyor,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "abrasi tot el meu ser.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 2
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "Fes-me dòcil a ta veu,",
+                "acordsASobre": [
+                  {
+                    "nota": "(",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 1
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 18
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 20
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 22
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 23
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "transforma la meva vida.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 5
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 10
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 15
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 21
+                  },
+                  {
+                    "nota": "re",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "A les mans teves, Senyor,"
+              },
+              {
+                "text": "reconec com sóc de dèbil,"
+              },
+              {
+                "text": "però tu m'estimes així"
+              },
+              {
+                "text": "i és per això que jo et lloo."
+              },
+              {
+                "text": "Pare, en la debilitat,"
+              },
+              {
+                "text": "Tu em dónes fortalesa."
+              },
+              {
+                "text": "Busques el pobre i senzill,"
+              },
+              {
+                "text": "li dónes pau i perdó."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Que el teu Esperit, Senyor,"
+              },
+              {
+                "text": "abrasi tot el meu ser."
+              },
+              {
+                "text": "Fes-me dòcil a ta veu,"
+              },
+              {
+                "text": "transforma la meva vida."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Gràcies perquè ja ho fas:"
+              },
+              {
+                "text": "la teva pau m'allibera"
+              },
+              {
+                "text": "perquè / aculls l'oració"
+              },
+              {
+                "text": "pel gran do que és ma pobresa."
+              },
+              {
+                "text": "Oh, quin goig sento d'estar"
+              },
+              {
+                "text": "abraçat pel meu Pare."
+              },
+              {
+                "text": "El teu Amor canto i lloo,"
+              },
+              {
+                "text": "perquè cures el malalt."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {
+                "text": "Que el teu Esperit, Senyor,"
+              },
+              {
+                "text": "abrasi tot el meu ser."
+              },
+              {
+                "text": "Fes-me dòcil a ta veu,"
+              },
+              {
+                "text": "transforma la meva vida."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 564,
+    idioma: {
+      "castella": {
+        "titol": "PON TU MANO",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Pon tu mano en la mano del Señor de Galilea",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 41
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 44
+                  }
+                ]
+              },
+              {
+                "text": "Pon tu mano en la mano del Señor que calma la mar",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 46
+                  }
+                ]
+              },
+              {
+                "text": "El Señor te cuida y te guía noche y día sin cesar",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 4
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 36
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 46
+                  }
+                ]
+              },
+              {
+                "text": "Pon tu mano en la mano del Señor, que calma la mar",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "mi",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 39
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 41
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 47
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Pongo mi mano en la mano del Señor de Galilea"
+              },
+              {
+                "text": "Pongo mi mano en la mano del Señor que calma la mar"
+              },
+              {
+                "text": "El Señor me cuida y me guía noche y día sin cesar"
+              },
+              {
+                "text": "Pongo mi mano en la mano del Señor, que calma la mar"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    numero: 565,
+    idioma: {
+      "castella": {
+        "titol": "TE VENGO A DECIR",
+        "audio": null,
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Te vengo a decir",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Te vengo a decir oh mi Salvador",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "Que yo te amo a Ti",
+                "acordsASobre": [
+                  {
+                    "nota": "mi",
+                    "pos": 16
+                  }
+                ]
+              },
+              {
+                "text": "Que yo te amo a Ti con el corazón",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 31
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Te vengo a decir",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Te vengo a decir toda la verdad",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 14
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "Que te amo Señor",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "Te adoro Señor con el corazón.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Yo quiero cantar",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "Yo quiero cantar de gozo y de paz",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 30
+                  }
+                ]
+              },
+              {
+                "text": "Yo quiero llorar",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "Yo quiero llorar de felicidad.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 27
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Te vengo a decir",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  }
+                ]
+              },
+              {
+                "text": "Te vengo a decir toda la verdad",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "que te amo Señor",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 14
+                  }
+                ]
+              },
+              {
+                "text": "Te adoro Señor con el corazón.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 26
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+
+
   // {
   //   numero: ,
   //   idioma: {
