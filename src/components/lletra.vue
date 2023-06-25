@@ -2,12 +2,20 @@
   <!-- <pre>{{ estrofa }}</pre> -->
 
     <div v-for="(objEstrofa, index) in lletra" :key="index">
-      <cmp_Estrofa
-      :estrofa="objEstrofa"
-      class="q-pa-sm"
-      />
-      <q-separator v-if="store.opcioAcords === false" key="1"/>
-      <q-separator v-else-if="objEstrofa.visibleAlsMusics !== false" key="2"/>
+      <div v-if="store.opcioAcords === false">
+        <cmp_Estrofa
+        :estrofa="objEstrofa"
+        class="q-pa-sm"
+        />
+        <q-separator color="grey-6" size="1px" spaced="lg"/>
+      </div>
+      <div v-else-if="objEstrofa.visibleAlsMusics !== false">
+        <cmp_Estrofa
+        :estrofa="objEstrofa"
+        class="q-pa-sm"
+        />
+        <q-separator color="grey-6" size="1px"/>
+      </div>
     </div>
 
 </template>

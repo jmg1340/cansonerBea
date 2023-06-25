@@ -2,16 +2,16 @@
   <div>
 
     <div v-if="(linia.acordsASobre && linia.acordsASota) && store.opcioAcords" class="lletraAmpladaFixe" >
-      <div v-html="acordsTextASobre" class="text-blue text-bold"/>
-      <div v-html="textAmbEspais" />
+      <div v-html="acordsTextASobre" class="text-blue text-bold margeInferior"/>
+      <div v-html="textAmbEspais" class="margeInferior"/>
       <div v-html="acordsTextASota" class="text-blue text-bold"/>
     </div>
     <div v-else-if="linia.acordsASobre && store.opcioAcords" class="lletraAmpladaFixe" >
-      <div v-html="acordsTextASobre" class="text-blue text-bold"/>
+      <div v-html="acordsTextASobre" class="text-blue text-bold margeInferior"/>
       <div v-html="textAmbEspais" class="no-wrap " />
     </div>
     <div v-else-if="linia.acordsASota && store.opcioAcords" class="lletraAmpladaFixe" >
-      <div v-html="textAmbEspais" />
+      <div v-html="textAmbEspais" class="margeInferior"/>
       <div v-html="acordsTextASota" class="text-blue text-bold"/>
     </div>
     <div v-else>
@@ -115,5 +115,8 @@ export default defineComponent({
 <style>
   .lletraAmpladaFixe{
     font-family: monospace, 'Courier New', Courier, monospace;
+  }
+  .margeInferior{
+    margin-bottom: -8px;
   }
 </style>

@@ -46,7 +46,6 @@
 
 
     <q-markup-table
-
       dense
       bordered
       class="q-mx-sm"
