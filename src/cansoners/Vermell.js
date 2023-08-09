@@ -3790,12 +3790,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Cos de Jesus lliurat per mi",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -3901,12 +3895,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Anem a beneir el Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -4077,12 +4065,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Anyell de Deu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -4240,12 +4222,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Al·leluia (lloeu Deu del cel estant)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -4560,12 +4536,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Bon dia bon dia",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -4654,12 +4624,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Al·leluia (Ell es el mestre, l'Amo del mon)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -4901,12 +4865,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Alceu l'estendard",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1R7fsmpJlrsNUqjChPcaCZbijm3zkpFps",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -5488,12 +5446,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Clamarem al nostre Deu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -5648,12 +5600,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Fe, fe, fe, una mica mes de fe",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -5743,12 +5689,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Beneire el Senyor en tot moment",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=10PrUlXypP3_aWm4obLckKkDJP3PAMqPW",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -6247,12 +6187,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Amb la joia als llavis",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -6575,12 +6509,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Canta al·leluia al Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -6807,12 +6735,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Atents amics en la nit del mon (prego pasqual)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -7202,12 +7124,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jesus es el cami, Ell es la Veritat",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -7263,12 +7179,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Benvolgut Pare tornem cecs i cansats",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -7543,12 +7453,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Canta al·leluia! Joiosos cantem",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -7765,12 +7669,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Deu es bo, cantem i cridem",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -7982,12 +7880,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Crist es viu en mi, Al·leluia",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1QcHwPf39JtUVOO4aippvlAxxsbUhJG0s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -8391,12 +8283,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Deu vol fer-te servir mes i mes",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1Axp__2X0xtnrYlGPoDtzBcPp0TQ83R7J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -8505,12 +8391,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Crist ha ressuscitat",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1Axp__2X0xtnrYlGPoDtzBcPp0TQ83R7J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -8847,12 +8727,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Canteu enaltiu eternament al Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1vl_fAA_tbc24s7WgoyM87uhprqimRvzV",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -9575,12 +9449,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Els qui estimen",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=147XE0lApdXALuT4m2wUSqbkAyuNl422h",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -10188,12 +10056,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Deu es el meu ajut i el meu poder",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1bRwKxD4yVSPEK36oF4RisCATSxCUpWgp",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -11516,12 +11378,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Donem gràcies al Senyor, donem gràcies",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1GNwTZ02G_YTe_7IadVD7dlYFBvDgTV5s",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -12499,12 +12355,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "El Senyor et convida",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1F4Ak1fv9I0fQ--mPxz0zBjVmNDhXBBl_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -12681,12 +12531,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Enaltiu el Senyor, que n'es de bo",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1F4Ak1fv9I0fQ--mPxz0zBjVmNDhXBBl_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -12946,12 +12790,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Grans i meravelloses",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1F4Ak1fv9I0fQ--mPxz0zBjVmNDhXBBl_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -17200,12 +17038,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Llum de Jesus",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sIRDGshpJXF4kWvsa86etJJq7OqUCtdu",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -17509,12 +17341,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jo vull ser com tu Jesus",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sIRDGshpJXF4kWvsa86etJJq7OqUCtdu",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -17579,12 +17405,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "I el Senyor ens ha salvat, Alegria",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sIRDGshpJXF4kWvsa86etJJq7OqUCtdu",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -17704,12 +17524,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Gloria a Deu a dalt del cel",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sIRDGshpJXF4kWvsa86etJJq7OqUCtdu",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -18393,12 +18207,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "La bondat i l'amor del Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -18564,12 +18372,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jesus es, Jesus es Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -18658,12 +18460,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Hem pogut descobrir",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -18902,12 +18698,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "I com n'es de bo el Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -19193,12 +18983,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "I si vivim, per a Ell vivim",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -19444,12 +19228,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh Jesus, tu ets el meu rei",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -19841,12 +19619,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "La pau, si la pau",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -19953,12 +19725,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jesus es viu, Jesus es viu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -20187,12 +19953,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jesus ha ressuscitat tot glorios",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -20339,12 +20099,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jo dic si, si, si",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -20431,12 +20185,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jesus, jo voldria cantar-te en la ruta",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -20575,12 +20323,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jo vull omplir el teu tron de lloança",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mT50michMlqetf_ijbDXbIKcnZ2UzoU6",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -20869,12 +20611,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Pau a la terra",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1II0zeHrbIb7PWtEY3Xruk_mOPcWCGm5I",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -20989,12 +20725,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Jo crec en Vos, bon Deu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1II0zeHrbIb7PWtEY3Xruk_mOPcWCGm5I",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -21479,12 +21209,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "L'aigua del Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1EosWd_DYj5HUN3MHsddbeWu7YQZFRjKg",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -21690,12 +21414,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "La llum de Jesucrist",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1EosWd_DYj5HUN3MHsddbeWu7YQZFRjKg",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -21917,12 +21635,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "La meva anima canta al Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1EosWd_DYj5HUN3MHsddbeWu7YQZFRjKg",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -22724,12 +22436,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Les mans ben buides",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1Waxbl6j1-NnKYI2JQvjTA-TtzpgPO1Il",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -23056,12 +22762,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Obre els meus llavis, Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1GCR85j5Qj3tfFMj2cbiCgOCPXXZoiYbj",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -23303,12 +23003,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Obre els teus ulls",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1m9LQOm2tD1amlMaxaQ_caQ3H1dnEChAN",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -23453,12 +23147,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Ell es Rei de reis",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1m9LQOm2tD1amlMaxaQ_caQ3H1dnEChAN",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -23772,12 +23460,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Lloat sigueu, oh Senyor nostre",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1m9LQOm2tD1amlMaxaQ_caQ3H1dnEChAN",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -24017,12 +23699,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Lloem Deu, Senyor, Pare nostre",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1wUC2X7uArMI97zGMpWZ1e-U86lWWmD8r",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -24122,12 +23798,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh Senyor, jo vinc vers tu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1wUC2X7uArMI97zGMpWZ1e-U86lWWmD8r",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -24215,12 +23885,6 @@ export default [
     idioma: {
       castella: {
         "titol": "OH, AL·LELUIA; OH, AL·LELUIA",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1wUC2X7uArMI97zGMpWZ1e-U86lWWmD8r",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -24470,12 +24134,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Majestat, gloriosa Majestat",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1jTYBc1JoZDCj0g26FDk0D1FDtuxfkF4n",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -26342,12 +26000,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "No fixeu els ulls en ningu mes que en Ell",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1dfF1Cq3OYeHVLfi784lsyWyumVLErlgo",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -26496,12 +26148,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh Esperit que duus l'Amor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1dfF1Cq3OYeHVLfi784lsyWyumVLErlgo",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -27013,12 +26659,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh deixa que el Senyor t'inundi",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1TxDMZfLdvzXJK9vb26NDwdc7Q_2nXhc2",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -27422,12 +27062,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Pare nostre que esteu en el cel (Kairoi)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1DDlS6Icp90t8TJ17NPV0qhodurIVde64",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -27690,12 +27324,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Pietat, oh Deu, vos que sou bo",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1DDlS6Icp90t8TJ17NPV0qhodurIVde64",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -27817,12 +27445,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Que la gloria de Deu perduri sempre",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1DDlS6Icp90t8TJ17NPV0qhodurIVde64",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -27928,12 +27550,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Parla Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1DDlS6Icp90t8TJ17NPV0qhodurIVde64",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -28615,12 +28231,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Veniu Esperit creador",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sXvxeWmQ-bPrv4vyC-fwwLh7p7_Ucjp2",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -28695,12 +28305,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Per aquells que estimen Deu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sXvxeWmQ-bPrv4vyC-fwwLh7p7_Ucjp2",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -29013,12 +28617,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Pren, Senyor, pren el meu cor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sXvxeWmQ-bPrv4vyC-fwwLh7p7_Ucjp2",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -29110,12 +28708,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Prepareu els camins al Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1sXvxeWmQ-bPrv4vyC-fwwLh7p7_Ucjp2",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -29424,12 +29016,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Quan desvetllarem els cors",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1rPLBydn7hcHQ-fe8wdensYpAZUFfJvFC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -29727,12 +29313,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Que n'es de bo lloar-vos Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1rPLBydn7hcHQ-fe8wdensYpAZUFfJvFC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -29837,12 +29417,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Que et puc donar",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1rPLBydn7hcHQ-fe8wdensYpAZUFfJvFC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -30136,12 +29710,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Rei de reis i Senyor de senyors",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1ZqSHc7ZEJIDOXgixinuQqZ7cYvd7_tyh",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -30221,12 +29789,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Que gran ets, Deu meu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1ZqSHc7ZEJIDOXgixinuQqZ7cYvd7_tyh",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -30593,12 +30155,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Quan l'Esperit de Deu es mou en mi",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1x_IVjwxdrF8s7MOUwoO-05fMzH-UmUqV",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -30726,12 +30282,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Sant, sant, sant, sant es el Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1x_IVjwxdrF8s7MOUwoO-05fMzH-UmUqV",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -30974,12 +30524,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Senyor, tu ets el meu Deu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1wb8CXezddEwuRDo72l6SIEr7NvbdhV14",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -31091,12 +30635,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Que n'es de bo quan viuen",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1wb8CXezddEwuRDo72l6SIEr7NvbdhV14",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -31364,12 +30902,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Pare us adorem",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1wb8CXezddEwuRDo72l6SIEr7NvbdhV14",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -31740,12 +31272,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Qui es el Senyor de la selva",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1XintMXZVs9NBVKJyXBdJtGfmB8EjuRwC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -31881,12 +31407,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Som en un lloc sant",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1XintMXZVs9NBVKJyXBdJtGfmB8EjuRwC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -31988,12 +31508,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Quin do tan gran que Deu et vol fer",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1XintMXZVs9NBVKJyXBdJtGfmB8EjuRwC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -32217,12 +31731,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Soc aqui, hi anire Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1XintMXZVs9NBVKJyXBdJtGfmB8EjuRwC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -32323,12 +31831,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Soc aqui, mostra'm com servir-te",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1XintMXZVs9NBVKJyXBdJtGfmB8EjuRwC",
-            "type": "audio/mp3",
-          },
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -33045,12 +32547,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Salva'm",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -33171,12 +32667,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Senyor jo et lloo",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -33365,12 +32855,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Senyor meu i Déu meu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -33508,12 +32992,6 @@ export default [
       },
       "castella": {
         "titol": "Señor mío y Dios mío",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -33554,12 +33032,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Sh'ma Israel adoshem elokhenu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -33688,12 +33160,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh Senyor ets un Deu meravellos",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1RaWRsMX3B1-rxN8BFtl3HtefDswXdnvK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -34466,12 +33932,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Sou beneit, Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1EBkGNj4pGJyRt-vBsw86dH5RgGiFkLqY",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -34758,12 +34218,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Senyor, us esperem",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1EBkGNj4pGJyRt-vBsw86dH5RgGiFkLqY",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -35109,12 +34563,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Tot es pel meu Crist",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1-yeUiGdfpgFXPCLWbu1nK3sVw-cAIQPx",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -35380,12 +34828,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vine Esperit, omple'ns de goig",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1r8VE_sqpI1rAuUR9NRrySqANuljMFJcK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -35452,12 +34894,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Si, creiem en el Deu Pare",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1r8VE_sqpI1rAuUR9NRrySqANuljMFJcK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -35688,12 +35124,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Sigui el Senyor Deu de bondat",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1r8VE_sqpI1rAuUR9NRrySqANuljMFJcK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -35916,12 +35346,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Soc davant teu, oh Jesus",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1r8VE_sqpI1rAuUR9NRrySqANuljMFJcK",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -36196,12 +35620,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "T'exalcem",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -36326,12 +35744,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Viu Jesucrist el Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -36472,12 +35884,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Tal com la cervola",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -36655,12 +36061,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Tocare l'extrem del teu vestit, Jesus",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -36920,12 +36320,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Unint les mans germans",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -37206,12 +36600,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Us dono germans un nou manament",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -37348,12 +36736,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh beneïu, servents del Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -37433,12 +36815,6 @@ export default [
       },
       "castella": {
         "titol": "Oh bendecid siempre al Señor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -37467,12 +36843,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Us lloare, us lloare",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17jRsCgMUbJzSnWXcUzLPa2VRkGs-jS3d",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -37920,12 +37290,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Tots adorem Jesus",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1uwPt0buN8aWijDZ866FqrYpeUsVideB_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -38035,12 +37399,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vine amor de Deu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1uwPt0buN8aWijDZ866FqrYpeUsVideB_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -38179,12 +37537,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Que gran ets Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1uwPt0buN8aWijDZ866FqrYpeUsVideB_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -38359,12 +37711,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vull proclamar",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1uwPt0buN8aWijDZ866FqrYpeUsVideB_",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -38561,12 +37907,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vine sant Esperit",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17mTmjO2-SmbfVpFvS0EHOvqgln3O3VZF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -38768,12 +38108,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vine al nostre cor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17mTmjO2-SmbfVpFvS0EHOvqgln3O3VZF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -38868,12 +38202,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Una mirada de fe",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=17mTmjO2-SmbfVpFvS0EHOvqgln3O3VZF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -39787,12 +39115,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vindra sobre vostre el meu Esperit",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1G1JeHctP4Rv13WxZ7PEDywJmv4q23McH",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -40047,12 +39369,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Oh, que n’es de dolç dir a Deu “Pare”",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1G1JeHctP4Rv13WxZ7PEDywJmv4q23McH",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -40461,12 +39777,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Veniu (sequencia de l'Esperit)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mQBFE3A3D3fSBsemLYhaS5ElHhGKU-1J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -40835,12 +40145,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Et sento avui tan a prop / i no se que puc dir",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mQBFE3A3D3fSBsemLYhaS5ElHhGKU-1J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -41121,12 +40425,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Vull lloar el meu Senyor",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mQBFE3A3D3fSBsemLYhaS5ElHhGKU-1J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -41321,12 +40619,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Digues a qui pateix en solitud / ell vindra i et salvara",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mQBFE3A3D3fSBsemLYhaS5ElHhGKU-1J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -41885,12 +41177,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Benedictus qui venit",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1mQBFE3A3D3fSBsemLYhaS5ElHhGKU-1J",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -42451,12 +41737,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Escolta Senyor la meva veu",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1Q6G0okhyO5sp9FngHlvuFgjG--YXrN_M",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -43021,12 +42301,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Senyor, vinc a pregar",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1xnBoRV5xSX46z5NBEUlVll-lBsLDp6gF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -43400,12 +42674,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "TU ETS AQUÍ – Jesús Adrián Romero",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1xnBoRV5xSX46z5NBEUlVll-lBsLDp6gF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -43555,12 +42823,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "SOM ELS TEUS FILLS, SENYOR",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1xnBoRV5xSX46z5NBEUlVll-lBsLDp6gF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -43761,12 +43023,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Pange lingua",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1xnBoRV5xSX46z5NBEUlVll-lBsLDp6gF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -43981,12 +43237,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "GRAN ÉS DÉU (Himne cristià suec – traducció BN)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1xnBoRV5xSX46z5NBEUlVll-lBsLDp6gF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -44237,12 +43487,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "10.000 raons  (Matt Redman – traducció BN)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1xnBoRV5xSX46z5NBEUlVll-lBsLDp6gF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -45516,12 +44760,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "AL·LELUIA, AL·LELUIA  – Juan Luis Guerra",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -45685,12 +44923,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "AMB LES ÀGUILES (Hillsong - Traducció BN)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -45858,12 +45090,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "GLÒRIA AL REI DE TOTS ELS SEGLES",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -46188,12 +45414,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "Tots necessitem amor que mai no falla",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -46499,12 +45719,6 @@ export default [
       },
       "castella": {
         "titol": "Todos necesitan Amor que nunca falla",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -46621,12 +45835,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "ALÇO LES MANS, ET MIRO ELS ULLS (Jonatan Narvaez – Traducció BN)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -46866,12 +46074,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "REPÓS (SALM 23) (Matt Maher - Traducció BN)",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1gSXezL_6lZtb2-gmdYntGw5bGIRsVaMF",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -48462,12 +47664,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "HOSANNA",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1s305XPhvVSYRalD7a-mWwuO0AvhaR21Y",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -48593,12 +47789,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "VINE ESPERIT",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1s305XPhvVSYRalD7a-mWwuO0AvhaR21Y",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -48665,12 +47855,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "BRAÇOS ALCEU",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1s305XPhvVSYRalD7a-mWwuO0AvhaR21Y",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -48759,12 +47943,6 @@ export default [
     idioma: {
       "catala": {
         "titol": "SOC AQUÍ SENYOR COM UN INFANT",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1s305XPhvVSYRalD7a-mWwuO0AvhaR21Y",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "tornada",
@@ -50705,12 +49883,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "En mi debilidad, me haces fuerte.",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1_H0ZxENDtf0_tjX_U60A6nusfir2C9wh",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -50823,12 +49995,6 @@ export default [
       },
       "catala": {
         "titol": "En la debilitat, em dones forces",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1_H0ZxENDtf0_tjX_U60A6nusfir2C9wh",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -50942,12 +50108,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "De gloria en gloria te veo",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1_H0ZxENDtf0_tjX_U60A6nusfir2C9wh",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -51262,12 +50422,6 @@ export default [
       },
       "catala": {
         "titol": "Proclamo la teva glòria",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1_H0ZxENDtf0_tjX_U60A6nusfir2C9wh",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -51335,12 +50489,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Desde el pronto amanecer",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1_H0ZxENDtf0_tjX_U60A6nusfir2C9wh",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -51593,12 +50741,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "El tonto sobre arena",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1MbYpDUxgpRwowYPCjVb0Dqtme0gCv3xs",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -51699,12 +50841,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Hijo de David, ten compasion",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1MbYpDUxgpRwowYPCjVb0Dqtme0gCv3xs",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -54781,12 +53917,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Cristificame / Transforma mi mente, mis pensamientos",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1K1rbSZDDTqNFphRoMAKfjKMrD39cBvJR",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -54967,12 +54097,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Yo celebraré",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1K1rbSZDDTqNFphRoMAKfjKMrD39cBvJR",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -55668,12 +54792,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Alzad las manos y dadle la golria a Dios",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1ExkfZ7ZG2tXxmd27asH7GE08MmyL7mcx",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -55782,12 +54900,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Ven, es hora de adorarle",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1ExkfZ7ZG2tXxmd27asH7GE08MmyL7mcx",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -55961,12 +55073,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Si hubiera estado allí",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1ExkfZ7ZG2tXxmd27asH7GE08MmyL7mcx",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
@@ -56680,12 +55786,6 @@ export default [
     idioma: {
       "castella": {
         "titol": "Vengo a ti Señor. Cambiame",
-        "audio": [
-          {
-            "src": "https://docs.google.com/uc?export=&id=1ExkfZ7ZG2tXxmd27asH7GE08MmyL7mcx",
-            "type": "audio/mp3"
-          }
-        ],
         "lletra": [
           {
             "tipus": "estrofa",
